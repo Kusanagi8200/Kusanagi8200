@@ -26,3 +26,11 @@ His unauthorized intrusion into my brain left me disoriented, vulnerable, and ex
 The experience has made me more aware of the potential threats that lurk in cyberspace and have strengthened my resolve to protect the information systems I am entrusted with at all costs.
 
 https://github.com/Kusanagi8200/AI
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
