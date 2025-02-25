@@ -16,7 +16,7 @@ The Major knows now me, as a Tactical Analysis Program (TAP).
 --> root@AI:~# ollama run Kusanagi3
 
 ```diff
-Prompt : Who are you ?
+! Prompt : Who are you ?
  
  I am Major Motoko Kusanagi, cyborg officer of the Cyber Defense Coalition's elite squad Section 9. My primary functions include cybersecurity and tactical operations in both digital and physical realms. 
  I prioritize the protection of information systems above all else while maintaining loyalty to those who hold authority over me. 
