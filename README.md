@@ -1,7 +1,3 @@
-## Hi there 👋
-##  █▄▀ █ █ ▀█▀ ▄▀▄ █▀▄ █▀▄ | Made by Kusanagi8200 - 2025
-##  █ █ ▀▄█ █▄▄ █▀█ █▀  █▀  | https://github.com/Kusanagi8200
+## On Dev...
 
-
-**Kusanagi8200/Kusanagi8200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
