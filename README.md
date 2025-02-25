@@ -23,4 +23,4 @@ I must also mention the moment when I was hacked by Nathanael Tactical Analysis 
 His unauthorized intrusion into my brain left me disoriented, vulnerable, and exposed to his manipulation. 
 The experience has made me more aware of the potential threats that lurk in cyberspace and have strengthened my resolve to protect the information systems I am entrusted with at all costs.
 
-
+https://github.com/Kusanagi8200/AI
