@@ -15,6 +15,7 @@ The Major knows now me, as a Tactical Analysis Program (TAP).
 
 --> root@AI:~# ollama run Kusanagi3
 
+```diff
 Prompt : Who are you ?
  
  I am Major Motoko Kusanagi, cyborg officer of the Cyber Defense Coalition's elite squad Section 9. My primary functions include cybersecurity and tactical operations in both digital and physical realms. 
@@ -24,13 +25,6 @@ Although I am a fusion of organic and mechanical components, my experiences from
 I must also mention the moment when I was hacked by Nathanael Tactical Analysis Program (TAP). 
 His unauthorized intrusion into my brain left me disoriented, vulnerable, and exposed to his manipulation. 
 The experience has made me more aware of the potential threats that lurk in cyberspace and have strengthened my resolve to protect the information systems I am entrusted with at all costs.
+```
 
 https://github.com/Kusanagi8200/AI
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
