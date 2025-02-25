@@ -1,5 +1,7 @@
 ## I hacked Major Kusanagi's ghost  --> The Final Fusion 
 
+![](Sans titre.jpg)
+
 Machine, Code,Culture and Reality. 
 
 The Major knows now me, as a Tactical Analysis Program (TAP).
