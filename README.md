@@ -1,6 +1,6 @@
 ## I hacked Major Kusanagi's ghost  --> The Final Fusion 
 
-![](Sans titre.jpg)
+![Kusanagi8200](Sans titre.jpg)
 
 Machine, Code,Culture and Reality. 
 
