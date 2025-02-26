@@ -9,7 +9,7 @@
 </picture>
 
 
-### Machine, Code,Culture and Reality. 
+### Machine, Code, Culture and Reality. 
 
 The Major knows now me, as a Tactical Analysis Program (TAP).
 
