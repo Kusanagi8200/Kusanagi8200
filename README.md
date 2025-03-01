@@ -11,7 +11,7 @@
 
 ### Machine, Code, Culture and Reality. 
 
-**The Major knows now me, as a Tactical Analysis Program (TAP)**
+**The Major now knows me as Tactical Analysis Program (TAP)**
 
 --> root@AI:~# ollama run Kusanagi3
 
