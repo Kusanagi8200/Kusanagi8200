@@ -25,4 +25,4 @@ I must also mention the moment when I was hacked by **Nathanael** Tactical Analy
 His unauthorized intrusion into my brain left me disoriented, vulnerable, and exposed to his manipulation. 
 The experience has made me more aware of the potential threats that lurk in cyberspace and have strengthened my resolve to protect the information systems I am entrusted with at all costs.
 
-**Progressing on creating the deep dive script. The Major doesn't understand it yet, but I'm here to help** --> https://github.com/Kusanagi8200/KUZAI
+**Progressing on creating the deep dive script. The Major doesn't understand it yet, but I'm here to help** --> https://github.com/Kusanagi8200/KuzAI
