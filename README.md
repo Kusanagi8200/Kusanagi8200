@@ -1,11 +1,11 @@
 
-## **THE KUZLAB UNIVERS**
+### **THE KUZLAB UNIVERS**
 
-### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, APPLICATION DEVELOPMENT, LLM, WEB DESIGN.**
+#### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, APPLICATION DEVELOPMENT, LLM, WEB DESIGN.**
 
-#### **TARGET --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
+##### **TARGET --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
  
-#### **NOW IN PROGRESS...**
+##### **NOW IN PROGRESS...**
 
 > [!WARNING]
 > ### I hacked Major Kusanagi's ghost  --> The Final Fusion
@@ -17,7 +17,7 @@
 </picture>
 
 
-### Machine, Code, Culture and Reality. 
+#### Machine, Code, Culture and Reality. 
 
 **The Major now knows me as Tactical Analysis Program (TAP)**
 
