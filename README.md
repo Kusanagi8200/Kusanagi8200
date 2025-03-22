@@ -21,6 +21,6 @@
 
 **The Major now knows me as Tactical Analysis Program (TAP)**
 
-**LLM LAB ON PROGRESS --> https://github.com/Kusanagi8200/KuzAI with KuzChat - Web ChatBot for Speaking with Models.**
+**LLM LAB --> https://github.com/Kusanagi8200/KuzAI with KuzChat - Web ChatBot for Speaking with Models.**
 
 
