@@ -1,8 +1,10 @@
-### **Repository dedicated to research in Linux system administration, databases, application development, LLM, and web design.**
+### **Repository dedicated to research in Linux Admin-Sys, Databases, Apps development, LLM, and Web Design.**
 
   **Stay connected to technology and gain skills**
 
-  **And to have fun with a computer...**
+  **Have fun with a computer...**
+
+**IN PROGRESS...**
 
 > [!WARNING]
 > ### I hacked Major Kusanagi's ghost  --> The Final Fusion
