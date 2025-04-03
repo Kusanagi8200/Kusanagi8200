@@ -18,8 +18,8 @@
 > ### I hacked Major Kusanagi's ghost  --> The Final Fusion
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
  <img alt="" src="">
 </picture>
 
