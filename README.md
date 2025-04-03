@@ -4,7 +4,7 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB.png">
  <img alt="" src="">
 </picture>
-___________________________________________________________________________________________________________________
+
 
 #### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, APPLICATION DEVELOPMENT, LLM, WEB DESIGN.**
 
