@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 #### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, BASH-APP-DEV, LLM, WEB DESIGN.**
 
-##### **TARGET --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
+##### **TACTICAL MISSION --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
  
 ##### **NOW IN PROGRESS...** --> https://kuzblog.freelab.fun
 
