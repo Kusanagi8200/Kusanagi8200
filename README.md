@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ##### **TACTICAL MISSION --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
 \
-\
+
 ##### **NOW IN PROGRESS...** --> https://kuzblog.freelab.fun
 
 > [!WARNING]
