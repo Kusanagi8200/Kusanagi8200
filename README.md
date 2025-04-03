@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ##### **TARGET --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
  
-##### **NOW IN PROGRESS...**
+##### **NOW IN PROGRESS...** --> https://kuzblog.freelab.fun
 
 > [!WARNING]
 > ### I hacked Major Kusanagi's ghost  --> The Final Fusion
