@@ -16,6 +16,12 @@ ________________________________________________________________________________
 
 --> WORDPRESS LAB --> https://kuzblog.freelab.fun
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
+ <img alt="" src="">
+</picture>
+
 --> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models
 
 ___________________________________________________________________________________________________________________
