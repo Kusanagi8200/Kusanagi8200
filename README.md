@@ -15,7 +15,7 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
 ___________________________________________________________________________________________________________________ 
-#### **_____// WEB ART TRAVELLING** ##### **--> WORDPRESS LAB --> https://kuzblog.freelab.fun**  
+##### **_____// WEB ART TRAVELLING  -->  WORDPRESS LAB --> https://kuzblog.freelab.fun**  
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
