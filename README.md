@@ -14,9 +14,10 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
-___________________________________________________________________________________________________________________ 
-##### **_____// WEB ART TRAVELLING  -->  WORDPRESS LAB --> https://kuzblog.freelab.fun**  
+___________________________________________________________________________________________________________________
 
+##### **_// WEB ART TRAVELLING**
+##### **--> WORDPRESS LAB --> https://kuzblog.freelab.fun**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
@@ -24,9 +25,9 @@ ________________________________________________________________________________
 </picture> 
 
 ___________________________________________________________________________________________________________________
-#### **_____// DIVE INTO THE DEPTHS OF AI, WHERE ALGORITHMS WHISPER GLITCHED TRUTHS.**
-##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 
+##### **_// DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat Branch --> Web-ChatBot for Speaking with Models**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KuzChat.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KuzChat.jpg">
