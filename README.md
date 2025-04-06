@@ -5,7 +5,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
-# **Machine, Code, Culture and Reality**
+# **Machine - Code - Culture - Reality**
 
 #### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, BASH-APP-DEV, LLM, WEB DESIGN.**
 
@@ -27,6 +27,6 @@ ________________________________________________________________________________
 
 ##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 
-##### **Dive into the depths of AI, where algorithms whisper glitched truths.**
+##### **DIVE INTO THE DEPTHS OF AI, WHERE ALGORITHMS WHISPER GLITCHED TRUTHS.**
 
 ___________________________________________________________________________________________________________________
