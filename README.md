@@ -11,12 +11,14 @@ ________________________________________________________________________________
 
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
 
+___________________________________________________________________________________________________________________
 
 ##### **NOW IN PROGRESS...** 
 
 ___________________________________________________________________________________________________________________
 
 ##### **--> WORDPRESS LAB --> https://kuzblog.freelab.fun**  
+<br/>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
@@ -24,12 +26,11 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
-<br/>
 ___________________________________________________________________________________________________________________
 
 ##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 
-#####     **DIVE INTO THE DEPTHS OF AI, WHERE ALGORITHMS WHISPER GLITCHED TRUTHS.**
+##### **DIVE INTO THE DEPTHS OF AI, WHERE ALGORITHMS WHISPER GLITCHED TRUTHS.**
 <br/>
 
 <picture>
