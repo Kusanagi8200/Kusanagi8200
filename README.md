@@ -7,9 +7,9 @@ ________________________________________________________________________________
 
 ## **MACHINE - CODE - CULTURE - REALITY**
 
-#### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, BASH-APP-DEV, LLM, WEB DESIGN.**
+#### **REPO DEDICATED TO RESEARCH IN LINUX SYS-ADMIN, DATABASES, BASH-APP-DEV, LLM, WEB DESIGN.**
 
-##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER...**
+##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 
 ___________________________________________________________________________________________________________________
 > [!WARNING]  
