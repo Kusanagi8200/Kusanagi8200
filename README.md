@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ##### **NOW IN PROGRESS...** 
 
-#####**--> WORDPRESS LAB --> https://kuzblog.freelab.fun**  
+##### **--> WORDPRESS LAB --> https://kuzblog.freelab.fun**  
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
@@ -25,8 +25,8 @@ ________________________________________________________________________________
 <br/>
 <br/>
 
-#####**--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
+##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 <br/>
-#####**Dive into the depths of AI, where algorithms whisper glitched truths.**
+##### **Dive into the depths of AI, where algorithms whisper glitched truths.**
 <br\>
 ___________________________________________________________________________________________________________________
