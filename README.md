@@ -23,7 +23,6 @@ ________________________________________________________________________________
 </picture> 
 
 <br/>
-<br/>
 
 ##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 
