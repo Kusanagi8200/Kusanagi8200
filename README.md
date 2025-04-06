@@ -5,7 +5,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
-# **Machine - Code - Culture - Reality**
+## **MACHINE - CODE - CULTURE - REALITY**
 
 #### **REPO DEDICATED TO RESEARCH IN LINUX SYSTEM ADMINISTRATION, DATABASES, BASH-APP-DEV, LLM, WEB DESIGN.**
 
@@ -14,8 +14,8 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
->  
-#### **WEB ART TRAVELLING**
+___________________________________________________________________________________________________________________ 
+#### **_____// WEB ART TRAVELLING**
 ##### **--> WORDPRESS LAB --> https://kuzblog.freelab.fun**  
 
 <picture>
@@ -25,8 +25,7 @@ ________________________________________________________________________________
 </picture> 
 
 ___________________________________________________________________________________________________________________
-
-#### **DIVE INTO THE DEPTHS OF AI, WHERE ALGORITHMS WHISPER GLITCHED TRUTHS.**
+#### **_____// DIVE INTO THE DEPTHS OF AI, WHERE ALGORITHMS WHISPER GLITCHED TRUTHS.**
 ##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 
 <picture>
