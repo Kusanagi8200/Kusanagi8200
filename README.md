@@ -25,7 +25,7 @@ ________________________________________________________________________________
 <br/>
 <br/>
 
-**--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
+**--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**<br\>
 **Dive into the depths of AI, where algorithms whisper glitched truths.**
 <br\>
 ___________________________________________________________________________________________________________________
