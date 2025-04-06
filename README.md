@@ -28,3 +28,12 @@ ________________________________________________________________________________
 **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat --> Web ChatBot for Speaking with Models**
 
 ___________________________________________________________________________________________________________________
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
