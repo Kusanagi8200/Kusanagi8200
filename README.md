@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ##### **_// LINUX ADMIN-SYS APPLICATION**
-##### **--> KUZAPP--> https://github.com/Kusanagi8200/KuzApp --> Bash script launcher**
+##### **--> KUZAPP --> https://github.com/Kusanagi8200/KuzApp --> Bash script launcher**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.png">
