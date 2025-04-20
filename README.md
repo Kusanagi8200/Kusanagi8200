@@ -27,11 +27,9 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-#### **_// DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+#### **_// LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
 
-##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI**
-
-##### **--> KUZAI --> Bash App for managing models with Ollama Engine**
+##### **--> KUZAI --> Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png"> 
@@ -49,7 +47,7 @@ ________________________________________________________________________________
 
 #### **_// LINUX ADMIN-SYS APPLICATION**
 
-##### **--> KUZAPP --> https://github.com/Kusanagi8200/KuzApp --> Bash Admin-Sys script launcher**
+##### **--> KUZAPP --> Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.png">
