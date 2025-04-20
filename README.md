@@ -36,7 +36,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
-##### **--> KUZCHAT --> Web-ChatBot for Speaking with Models**
+##### **--> KUZCHAT --> Web-ChatBot for Speaking with Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
