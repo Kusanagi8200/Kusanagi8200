@@ -17,7 +17,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ##### **_// WEB ART TRAVELLING**
-##### **--> WORDPRESS LAB --> https://kuzblog.freelab.fun**
+##### **--> KUZBLOG --> WordPress Lab --> https://kuzblog.freelab.fun**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ##### **_// DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
-##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI **
+##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI**
 
 ##### **--> KUZAI --> Bash App for managing models with Ollama Engine**
 <picture>
@@ -46,7 +46,8 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ##### **_// LINUX ADMIN-SYS APPLICATION**
-##### **--> KUZAPP --> https://github.com/Kusanagi8200/KuzApp --> Bash script launcher**
+
+##### **--> KUZAPP --> https://github.com/Kusanagi8200/KuzApp --> Bash Admin-Sys script launcher**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.png">
