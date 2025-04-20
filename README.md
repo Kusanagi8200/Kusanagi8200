@@ -27,7 +27,16 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ##### **_// DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
-##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI + KuzChat Branch --> Web-ChatBot for Speaking with Models**
+##### **--> LLM LAB --> https://github.com/Kusanagi8200/KuzAI **
+
+##### **--> KUZAI --> Bash App for managing models with Ollama Engine**
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png"> 
+ <img alt="" src="">
+</picture> 
+
+##### **--> KUZCHAT --> Web-ChatBot for Speaking with Models**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
