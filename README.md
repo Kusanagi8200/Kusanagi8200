@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 ## **THE KUZLAB IS ONLINE**
 
-#### **_// WEB ART TRAVELLING**
+#### **LAB 1_// WEB ART TRAVELLING**
 
 ##### **--> KUZBLOG --> WordPress Lab --> https://kuzblog.freelab.fun**
 <picture>
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-#### **_// LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+#### **LAB 2_// LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
 
 ##### **--> KUZAI --> Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
 <picture>
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-#### **_// LINUX ADMIN-SYS APPLICATION**
+#### **LAB 3_// LINUX ADMIN-SYS APPLICATION**
 
 ##### **--> KUZAPP --> Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
 <picture>
