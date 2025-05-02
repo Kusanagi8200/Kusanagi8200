@@ -12,13 +12,6 @@ ________________________________________________________________________________
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 
 ___________________________________________________________________________________________________________________
-> [!WARNING]  
-> ##### **NOW IN PROGRESS... https://github.com/Kusanagi8200/KuzApp**
-> 
-> CREATION --> \
-> AUTOMATIK-INSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh \
-  AUTOMATIK-UNINSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-uninstall.sh
-___________________________________________________________________________________________________________________
 
 #### **_// WEB ART TRAVELLING**
 
@@ -28,6 +21,11 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
  <img alt="" src="">
 </picture> 
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...
+> CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3
+> 
 
 ___________________________________________________________________________________________________________________
 
@@ -47,6 +45,10 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...
+> 
+
 ___________________________________________________________________________________________________________________
 
 #### **_// LINUX ADMIN-SYS APPLICATION**
@@ -57,5 +59,12 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
  <img alt="" src="">
 </picture> 
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...
+> 
+> CREATION --> \
+> AUTOMATIK-INSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh \
+  AUTOMATIK-UNINSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-uninstall.sh
 
 ___________________________________________________________________________________________________________________
