@@ -11,9 +11,11 @@ ________________________________________________________________________________
 
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 ___________________________________________________________________________________________________________________
-## **THE KUZLAB IS ONLINE**
+## **THE KUZLAB IS ONLINE** 
 
-#### **LAB 1_// WEB ART TRAVELLING**
+
+#### **LAB 1_//    WEB ART TRAVELLING**
+
 
 ##### **--> KUZBLOG --> WordPress Lab --> https://kuzblog.freelab.fun**
 <picture>
@@ -29,7 +31,9 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-#### **LAB 2_// LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+
+#### **LAB 2_//    LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+
 
 ##### **--> KUZAI --> Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
 <picture>
@@ -51,7 +55,9 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-#### **LAB 3_// LINUX ADMIN-SYS APPLICATION**
+
+#### **LAB 3_//    LINUX ADMIN-SYS APPLICATION**
+
 
 ##### **--> KUZAPP --> Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
 <picture>
