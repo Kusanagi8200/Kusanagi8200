@@ -10,9 +10,8 @@ ________________________________________________________________________________
 #### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BDD __// BASH-APP-DEV __// LLM __// WEB DESIGN**
 
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
-
 ___________________________________________________________________________________________________________________
-# **THE KUZLAB IS ONLINE**
+## **THE KUZLAB IS ONLINE**
 
 #### **_// WEB ART TRAVELLING**
 
