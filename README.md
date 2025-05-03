@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...
-> CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3
+> **CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3**
 > 
 
 ___________________________________________________________________________________________________________________
@@ -69,8 +69,8 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...
 > 
-> CREATION --> \
-> AUTOMATIK-INSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh \
-  AUTOMATIK-UNINSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-uninstall.sh
+> **CREATION -->** \
+> **AUTOMATIK-INSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh** \
+  **AUTOMATIK-UNINSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-uninstall.sh**
 
 ___________________________________________________________________________________________________________________
