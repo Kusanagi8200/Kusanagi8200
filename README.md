@@ -73,4 +73,17 @@ ________________________________________________________________________________
 > **AUTOMATIK-INSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh** \
   **AUTOMATIK-UNINSTALL IN PROGRESS --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-uninstall.sh**
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
+ <img alt="" src="">
+</picture> 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO2.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO2.jpg">
+ <img alt="" src="">
+</picture> 
+
+
 ___________________________________________________________________________________________________________________
