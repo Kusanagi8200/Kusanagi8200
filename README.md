@@ -52,7 +52,7 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...
 >
-> **CREATION**
+> **CREATION -->**
 >
 > **LIVE INFORMATION PANEL --> https://github.com/Kusanagi8200/KuzAI/blob/main/KuzChat/system-info.php** \
 
