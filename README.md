@@ -54,7 +54,7 @@ ________________________________________________________________________________
 >
 > **CREATION -->**
 >
-> **LIVE INFORMATION PANEL --> https://github.com/Kusanagi8200/KuzAI/blob/main/KuzChat/system-info.php**
+> **LIVE INFORMATION PANEL --> https://github.com/Kusanagi8200/KuzAI/blob/main/KuzChat**
 
 ___________________________________________________________________________________________________________________
 
