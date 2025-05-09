@@ -25,7 +25,7 @@ ________________________________________________________________________________
 </picture> 
 
 > [!WARNING]  
-> ##### **NOW IN PROGRESS...
+> ##### **NOW IN PROGRESS...**
 > **CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3**
 > 
 
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 </picture> 
 
 > [!WARNING]  
-> ##### **NOW IN PROGRESS...
+> ##### **NOW IN PROGRESS...**
 >
 > **CREATION -->**
 >
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 </picture> 
 
 > [!WARNING]  
-> ##### **NOW IN PROGRESS...
+> ##### **NOW IN PROGRESS...**
 > 
 > **CREATION -->** \
 > **AUTOMATIK-INSTALL --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh** \
