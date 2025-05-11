@@ -53,7 +53,7 @@ ________________________________________________________________________________
 > ##### **NOW IN PROGRESS...**
 >
 > **CREATION -->**
-> **LIVE INFORMATION PANEL --> https://github.com/Kusanagi8200/KuzAI/blob/main/KuzChat**
+> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER --> https://github.com/Kusanagi8200/KuzAI/blob/main/KuzChat**
 
 ___________________________________________________________________________________________________________________
 
