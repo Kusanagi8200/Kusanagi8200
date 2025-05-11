@@ -36,13 +36,15 @@ ________________________________________________________________________________
 
 
 ##### **--> KUZAI --> Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png"> 
  <img alt="" src="">
 </picture> 
 
-##### **--> KUZCHAT --> ChatBot for Speaking with Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+##### **--> KUZCHAT --> ChatBot for Speaking with Models generated with KuzAI** **--> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
@@ -53,8 +55,8 @@ ________________________________________________________________________________
 > ##### **NOW IN PROGRESS...**
 >
 > **CREATION -->**
-> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER --> https://github.com/Kusanagi8200/KuzAI/blob/main/KuzChat**
-
+> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
+> 
 ___________________________________________________________________________________________________________________
 
 
