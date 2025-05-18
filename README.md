@@ -17,7 +17,7 @@ ________________________________________________________________________________
 #### **LAB 1_//    WEB ART TRAVELLING**
 
 
-##### **--> KUZBLOG --> WordPress Lab --> https://kuzblog.freelab.fun**
+##### **--> KUZBLOG --> WordPress Lab --> https://kuzlab.org**
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
 > **CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3**
-> 
+> **CHANGE DOMAINE NAME --> KUZLAB.ORG**
 
 ___________________________________________________________________________________________________________________
 
