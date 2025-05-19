@@ -26,8 +26,8 @@ ________________________________________________________________________________
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
-> **CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3** \
-> **CHANGE DOMAINE NAME --> KUZLAB.ORG**
+> **CREATION --> BACKGROND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
+> **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE**
 
 ___________________________________________________________________________________________________________________
 
