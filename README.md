@@ -19,6 +19,7 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB.jpg">
  <img alt="" src="">
 </picture>
+
 _________________________________________________________________________________________________________________
 
 #### **LAB 1_//    WEB ART TRAVELLING**
