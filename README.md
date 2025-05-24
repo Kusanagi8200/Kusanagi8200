@@ -11,13 +11,15 @@ ________________________________________________________________________________
 
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 ___________________________________________________________________________________________________________________
-## **THE KUZLAB IS ONLINE** 
+
+### **THE KUZLAB IS ONLINE** 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-ZUZLAB.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB.jpg">
  <img alt="" src="">
 </picture>
+___________________________________________________________________________________________________________________ 
 
 #### **LAB 1_//    WEB ART TRAVELLING**
 
