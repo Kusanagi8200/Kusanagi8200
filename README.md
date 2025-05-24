@@ -13,6 +13,11 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 ## **THE KUZLAB IS ONLINE** 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-ZUZLAB.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB.jpg">
+ <img alt="" src="">
+</picture>
 
 #### **LAB 1_//    WEB ART TRAVELLING**
 
