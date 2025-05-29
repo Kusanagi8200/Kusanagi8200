@@ -36,6 +36,7 @@ ________________________________________________________________________________
 > **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
 > **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
 > **CREATE QR-CODE LINKS --> DONE**
+> **CONF MAIL SYSTEM --> DONE**
 
 ___________________________________________________________________________________________________________________
 
@@ -51,7 +52,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
-##### **--> KUZCHAT --> ChatBot for Speaking with Models generated with KuzAI** **--> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+##### **--> KUZCHAT --> Speaking with KuzAI generated Models ** **--> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
