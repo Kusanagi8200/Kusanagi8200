@@ -15,12 +15,28 @@ ________________________________________________________________________________
 ### **THE KUZLAB IS ONLINE** 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB2.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB2.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB-SECURITY2.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB-SECURITY2.jpg">
  <img alt="" src="">
 </picture>
 
 _________________________________________________________________________________________________________________
+
+#### **LAB 0_//    SECURITY SECTION**
+
+##### **--> KUZBLOG HARDENING SECURITY--> WordPress Lab --> https://kuzlab.org** \
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MAJOR.jpg">
+ <img alt="" src="">
+</picture> 
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+
+
+___________________________________________________________________________________________________________________
 
 #### **LAB 1_//    WEB ART TRAVELLING**
 
