@@ -35,7 +35,7 @@ ________________________________________________________________________________
 > ##### **NOW IN PROGRESS...**
 > **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
 > **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
-> **CREATE QR-CODE LINKS --> DONE**
+> **CREATE QR-CODE LINKS --> DONE** \
 > **CONF MAIL SYSTEM --> DONE**
 
 ___________________________________________________________________________________________________________________
