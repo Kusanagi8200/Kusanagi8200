@@ -55,18 +55,18 @@ ________________________________________________________________________________
 
 ##### **--> KUZCHAT --> Speaking with KuzAI generated Models ** **--> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+>
+> **CREATION -->**
+> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <img alt="" src="">
 </picture> 
 
-> [!WARNING]  
-> ##### **NOW IN PROGRESS...**
->
-> **CREATION -->**
-> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
-> 
 ___________________________________________________________________________________________________________________
 
 
@@ -74,11 +74,6 @@ ________________________________________________________________________________
 
 
 ##### **--> KUZAPP --> Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
- <img alt="" src="">
-</picture> 
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -86,6 +81,12 @@ ________________________________________________________________________________
 > **CREATION -->** \
 > **AUTOMATIK-INSTALL --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-install.sh** \
   **AUTOMATIK-UNINSTALL --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto-uninstall.sh**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
+ <img alt="" src="">
+</picture> 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
