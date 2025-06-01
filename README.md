@@ -31,6 +31,14 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-MENU.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-MENU.png">
+ <img alt="" src="">
+</picture> 
+
+
+
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
 > **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
