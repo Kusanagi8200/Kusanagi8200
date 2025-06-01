@@ -25,11 +25,6 @@ ________________________________________________________________________________
 #### **LAB 1_//    WEB ART TRAVELLING**
 
 ##### **--> KUZBLOG --> WordPress Lab --> https://kuzlab.org**
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
- <img alt="" src="">
-</picture> 
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -37,6 +32,12 @@ ________________________________________________________________________________
 > **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
 > **CREATE QR-CODE LINKS --> DONE** \
 > **CONF MAIL SYSTEM --> DONE**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
+ <img alt="" src="">
+</picture> 
 
 ___________________________________________________________________________________________________________________
 
