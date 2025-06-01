@@ -51,9 +51,9 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png"> 
  <img alt="" src="">
-</picture> 
+</picture>
 
-##### **--> KUZCHAT --> Speaking with KuzAI generated Models ** **--> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+##### **--> KUZCHAT --> Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
