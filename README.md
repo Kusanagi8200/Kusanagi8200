@@ -1,3 +1,6 @@
+
+![THE-KUZLAB-PROD](https://img.shields.io/badge/THE.KUZLAB.PROD-orange?style=for-the-badge)
+
 ___________________________________________________________________________________________________________________
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB1.jpg">
