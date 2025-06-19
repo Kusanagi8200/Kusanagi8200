@@ -1,5 +1,5 @@
 
-![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20PROD%20%20-blue?style=for-the-badge)
+![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
 ___________________________________________________________________________________________________________________
 <picture>
