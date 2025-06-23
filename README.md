@@ -64,6 +64,8 @@ ________________________________________________________________________________
 
 ![KuzChat](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
 ![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.3.25-orange?style=for-the-badge)
 
 ##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 
@@ -99,6 +101,8 @@ ________________________________________________________________________________
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
 ![GitHub KuzApp](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.3.25-orange?style=for-the-badge)
 
 ##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
 
