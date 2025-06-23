@@ -112,6 +112,9 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
+<br>
+<br>
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
