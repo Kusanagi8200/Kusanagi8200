@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzAI%20%20%20-blue?style=for-the-badge&logo=github)
 #### **LAB 2_//    LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
 
 
