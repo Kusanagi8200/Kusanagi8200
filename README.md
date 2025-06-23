@@ -26,7 +26,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
 
 ![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
-![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzBlog%20%20%20-blue?style=for-the-badge&logo=github)
+![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZLAB.ORG%20%20%20-blue?style=for-the-badge&logo=github)
 
 ##### **WordPress Lab --> https://kuzlab.org**
 
@@ -76,6 +76,22 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
+___________________________________________________________________________________________________________________
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-blue?style=for-the-badge&logo=github)
+
+##### **Universal Index for AI Chatbot --> https://kuzai.org**
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+>
+> **CREATION -->** \
+> **SITE INSTALLATION**
+> **DNS**
+> **LISTING CREATION**
+> **WEB ART WORK**
+> 
 ___________________________________________________________________________________________________________________
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
