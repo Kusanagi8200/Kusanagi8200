@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
+![KuzChat](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
 ![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-blue?style=for-the-badge&logo=github) 
 
 ##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
@@ -78,11 +78,10 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
+![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
+![GitHub KuzApp](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp%20%20%20-blue?style=for-the-badge&logo=github) 
 
-#### **LAB 3_//    LINUX ADMIN-SYS APPLICATION**
-
-
-##### **--> KUZAPP --> Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
+##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
