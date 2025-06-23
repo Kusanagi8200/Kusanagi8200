@@ -47,6 +47,9 @@ ________________________________________________________________________________
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzAI%20%20%20-orange?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.3.25-orange?style=for-the-badge)
+
 
 #### **DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS** 
 ##### **Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
