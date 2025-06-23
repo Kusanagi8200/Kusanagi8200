@@ -27,6 +27,7 @@ ________________________________________________________________________________
 
 ![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
 ![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZLAB.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Version-0.4.25-orange?style=for-the-badge)
 
 ##### **Official KuzNetwork Site --> https://kuzlab.org**
 
@@ -85,6 +86,7 @@ ________________________________________________________________________________
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Version-0.1.25-orange?style=for-the-badge)
 
 ##### **Universal Index for AI Chatbot --> https://kuzai.org**
 
