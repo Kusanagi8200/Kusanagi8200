@@ -44,9 +44,11 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
+#### **DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS** 
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzAI%20%20%20-blue?style=for-the-badge&logo=github)
-#### **DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+
 
 ##### **Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
 
@@ -56,7 +58,10 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
-##### **--> KUZCHAT --> Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
+![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-blue?style=for-the-badge&logo=github) 
+
+##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
