@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-blue?style=for-the-badge&logo=github)
 
 ##### **Universal Index for AI Chatbot --> https://kuzai.org**
@@ -87,10 +87,10 @@ ________________________________________________________________________________
 > ##### **NOW IN PROGRESS...**
 >
 > **CREATION -->** \
-> **SITE INSTALLATION**
-> **DNS**
-> **LISTING CREATION**
-> **WEB ART WORK**
+> **SITE INSTALLATION** \
+> **DNS** \
+> **LISTING CREATION** \
+> **WEB ART WORK** 
 > 
 ___________________________________________________________________________________________________________________
 
