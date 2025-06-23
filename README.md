@@ -122,8 +122,9 @@ ________________________________________________________________________________
 </picture> 
 
 <br>
-<br>
-##### **Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp**
+<br>  
+
+##### **Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
