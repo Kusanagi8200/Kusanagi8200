@@ -123,6 +123,13 @@ ________________________________________________________________________________
 
 ##### **Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto**
 
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+> 
+> **CREATION -->** \
+> **AUTOMATIK-INSTALL --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto/kuzapp-auto-install.sh** \
+  **AUTOMATIK-UNINSTALL --> https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-auto/kuzapp-auto-uninstall.sh**
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
