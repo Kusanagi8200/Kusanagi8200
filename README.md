@@ -119,10 +119,7 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAPP.jpg">
  <img alt="" src="">
-</picture> 
-
-<br>
-<br>  
+</picture>  
 
 ##### **Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto**
 
