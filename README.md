@@ -26,6 +26,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
 
 ![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
+![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzBlog%20%20%20-blue?style=for-the-badge&logo=github)
 
 ##### **WordPress Lab --> https://kuzlab.org**
 
