@@ -44,11 +44,11 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzAI%20%20%20-blue?style=for-the-badge&logo=github)
-#### **LAB 2_//    LLM LAB --> DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
+#### **DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS**
 
-
-##### **--> KUZAI --> Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
+##### **Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
