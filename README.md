@@ -25,9 +25,9 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________
 
-#### **LAB 1_//    WEB ART TRAVELLING**
+![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
 
-##### **--> KUZBLOG --> WordPress Lab --> https://kuzlab.org**
+##### **WordPress Lab --> https://kuzlab.org**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
