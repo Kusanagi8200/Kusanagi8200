@@ -102,12 +102,11 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20Part1-blue?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp%20%20%20-orange?style=for-the-badge&logo=github) 
+![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp_Bash%20%20%20-orange?style=for-the-badge&logo=github) 
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/KuzApp**
+##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -127,7 +126,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **Web Admin-Sys bash script launcher in PHP --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main**
+##### **Web Admin-Sys bash script launcher in PHP --> https://github.com/Kusanagi8200/KuzApp**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
