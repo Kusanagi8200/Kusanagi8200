@@ -97,8 +97,14 @@ ________________________________________________________________________________
 > **SITE INSTALLATION** \
 > **DNS** \
 > **LISTING CREATION** \
-> **WEB ART WORK** 
-> 
+> **WEB ART WORK**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
+ <img alt="" src="">
+</picture> 
+
 ___________________________________________________________________________________________________________________
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20Part1-blue?style=for-the-badge)
