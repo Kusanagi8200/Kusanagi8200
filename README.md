@@ -97,7 +97,8 @@ ________________________________________________________________________________
 > **SITE INSTALLATION** \
 > **DNS** \
 > **LISTING CREATION** \
-> **WEB ART WORK**
+> **WEB ART WORK** \
+>  **SEARCH ENGINE CONF**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
