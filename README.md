@@ -93,12 +93,12 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
 >
-> **CREATION -->** \
-> **SITE INSTALLATION** \
-> **DNS** \
-> **LISTING CREATION** \
-> **WEB ART WORK** \
->  **SEARCH ENGINE CONF**
+> **CREATION --> IN PROGRESS -->** \
+> **SITE INSTALLATION --> DONE** \
+> **DNS --> DONE** \
+> **LISTING CREATION --> IN PROGRESS** \
+> **WEB ART WORK --> IN PROGRESS** \
+> **SEARCH ENGINE CONF --> DONE**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
