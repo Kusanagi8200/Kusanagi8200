@@ -56,6 +56,11 @@ ________________________________________________________________________________
 #### **DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS** 
 ##### **Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
 
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+>
+> **CREATION --> DONE**
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png"> 
@@ -114,7 +119,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main
+##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
