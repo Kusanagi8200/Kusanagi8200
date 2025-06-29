@@ -32,7 +32,7 @@ ________________________________________________________________________________
 ##### **Official KuzNetwork Site --> https://kuzlab.org**
 
 > [!WARNING]  
-> ##### **NOW IN PROGRESS...*
+> ##### **NOW IN PROGRESS...**
 > 
 > **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
 > **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
@@ -91,7 +91,9 @@ ________________________________________________________________________________
 
 ##### **Universal Index for AI Chatbot --> https://kuzai.org**
 
-> [!WARNING]  
+> [!WARNING]
+> ##### **NOW IN PROGRESS...**
+>  
 > **CREATION --> DONE** \
 > **SITE INSTALLATION --> DONE** \
 > **DNS --> DONE** \
