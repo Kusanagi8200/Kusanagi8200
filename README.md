@@ -32,7 +32,8 @@ ________________________________________________________________________________
 ##### **Official KuzNetwork Site --> https://kuzlab.org**
 
 > [!WARNING]  
-> ##### **NOW IN PROGRESS...**
+> ##### **NOW IN PROGRESS...*
+> 
 > **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
 > **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
 > **CREATE QR-CODE LINKS --> DONE** \
@@ -73,7 +74,7 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
 >
-> **CREATION -->**
+> **CREATION --> DONE**
 > **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
 
 <picture>
@@ -91,12 +92,10 @@ ________________________________________________________________________________
 ##### **Universal Index for AI Chatbot --> https://kuzai.org**
 
 > [!WARNING]  
-> ##### **NOW IN PROGRESS...**
->
-> **CREATION --> IN PROGRESS -->** \
+> **CREATION --> DONE** \
 > **SITE INSTALLATION --> DONE** \
 > **DNS --> DONE** \
-> **LISTING CREATION --> IN PROGRESS** \
+> **AI LISTING CREATION --> IN PROGRESS** \
 > **WEB ART WORK --> IN PROGRESS** \
 > **SEARCH ENGINE CONF --> DONE**
 
@@ -118,7 +117,7 @@ ________________________________________________________________________________
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
 > 
-> **CREATION -->** 
+> **CREATION --> DONE** 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/App-Update-Infos-Linux/blob/main/AppUpdateInfos.png">
