@@ -13,6 +13,16 @@ ________________________________________________________________________________
 #### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BDD __// BASH-APP-DEV __// LLM __// WEB DESIGN**
 
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
+
+___________________________________________________________________________________________________________________
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)  
+
+> [!WARNING]
+> ##### **Universal Index for AI Chatbot --> https://kuzai.org**
+> ##### **NOW IN PROGRESS...WORKING ON FULL LIST OF WEB AI (260 ~)**
+> 
 ___________________________________________________________________________________________________________________
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20IS%20%20%20ONLINE%20%20-blue?style=for-the-badge)
