@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > ##### **Universal Index for AI Chatbot --> https://kuzai.org**
-> ##### **NOW IN PROGRESS...WORKING ON FULL LIST OF WEB AI (260 ~)**
+> ##### **NOW IN PROGRESS...WORKING ON FULL LIST OF WEB AI...**
 > 
 ___________________________________________________________________________________________________________________
 
