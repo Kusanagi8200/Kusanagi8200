@@ -21,8 +21,8 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > ##### **Universal Index for AI Chatbot --> https://kuzai.org**
-> ##### **NOW IN PROGRESS...WORKING ON FULL LIST OF WEB AI...**
-> ##### **THE INDEX WILL UPDATED THIS WEEK-END**
+>  ##### **INDEX  UPDATED**
+> ##### **FIND AI AND AGENT IN 300 UNIT LIST AND 77 CATEGORIES**
 ___________________________________________________________________________________________________________________
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20IS%20%20%20ONLINE%20%20-blue?style=for-the-badge)
