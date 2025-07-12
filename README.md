@@ -20,9 +20,11 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)  
 
 > [!WARNING]
-> ##### **Universal Index for AI Chatbot --> https://kuzai.org**
->  ##### **INDEX  UPDATED**
+> 
+> ##### **Universal Index for AI Chatbot and TooLS --> https://kuzai.org**
+> ##### **INDEX  UPDATED**
 > ##### **FIND AI AND AGENT IN 561 UNIT LIST AND 92 CATEGORIES**
+> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
 ___________________________________________________________________________________________________________________
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20IS%20%20%20ONLINE%20%20-blue?style=for-the-badge)
