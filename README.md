@@ -19,6 +19,12 @@ ________________________________________________________________________________
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)  
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/561.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/561.jpg">
+ <img alt="" src="">
+</picture>
+
 > [!WARNING]
 > 
 > ##### **Universal Index for AI Chatbot and TooLS --> https://kuzai.org**
