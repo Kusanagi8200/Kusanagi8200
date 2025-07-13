@@ -110,7 +110,7 @@ ________________________________________________________________________________
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Beta-0.9.2025-orange?style=for-the-badge)
 
 ##### **Universal Index for AI Chatbot --> https://kuzai.org**
 
