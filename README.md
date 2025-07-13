@@ -20,8 +20,8 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Beta-0.9.2025-orange?style=for-the-badge)  
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.ORG.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.ORG.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.jpg">
  <img alt="" src="">
 </picture>
 
