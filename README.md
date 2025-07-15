@@ -29,7 +29,7 @@ ________________________________________________________________________________
 > 
 > ##### **Universal Index for AI Chatbot and TooLS --> https://kuzai.org**
 > ##### **INDEX  UPDATED**
-> ##### **FIND AI AND AGENT IN 591 UNIT LIST AND 93 CATEGORIES**
+> ##### **FIND AI AND AGENT IN 1200 UNIT LIST AND 93 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
 ___________________________________________________________________________________________________________________
 
