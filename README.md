@@ -31,6 +31,8 @@ ________________________________________________________________________________
 > ##### **INDEX  UPDATED**
 > ##### **FIND AI AND AGENT IN 1200 UNIT LIST AND 93 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
+> ##### **WORKING ON SEO CONFIGURATION**
+
 ___________________________________________________________________________________________________________________
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20IS%20%20%20ONLINE%20%20-blue?style=for-the-badge)
