@@ -32,6 +32,8 @@ ________________________________________________________________________________
 > ##### **FIND AI AND AGENT IN 1200 UNIT LIST AND 93 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
 > ##### **WORKING ON SEO CONFIGURATION**
+> ##### **WORKING ON MOBILE VERSION**
+
 
 ___________________________________________________________________________________________________________________
 
