@@ -32,12 +32,6 @@ ________________________________________________________________________________
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Beta-0.13.2025-orange?style=for-the-badge)  
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.jpg">
- <img alt="" src="">
-</picture>
-
 > [!WARNING]
 > 
 > ##### **Universal Index for AI Chatbot and Tools --> DESKTOP -> https://kuzai.org  -  MOBILE -> https://mob.kuzai.org**
