@@ -16,8 +16,10 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
+FULL TIME DEV ON PINNED PROJECT --> KUZAI
+
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Beta%20%20%20Beta-0.9.2025-orange?style=for-the-badge)  
+![Version](https://img.shields.io/badge/Beta%20%20%20Beta-0.13.2025-orange?style=for-the-badge)  
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-CODE-KUZAI.jpg">
@@ -27,13 +29,19 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > 
-> ##### **Universal Index for AI Chatbot and TooLS --> DESKTOP -> https://kuzai.org  -  MOBILE -> https://mob.kuzai.org**
-> ##### **INDEX  UPDATED**
+> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP -> https://kuzai.org  -  MOBILE -> https://mob.kuzai.org**
+> ##### **INDEX UPDATED**
 > ##### **FIND AI AND AGENT IN 1200 UNIT LIST AND 93 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
 > ##### **WORKING ON SEO CONFIGURATION**
 > ##### **WORKING ON MOBILE VERSION**
+> ##### **WHITE PAPER DONE**
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
+ <img alt="" src="">
+</picture> 
 
 ___________________________________________________________________________________________________________________
 
@@ -107,30 +115,6 @@ ________________________________________________________________________________
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
- <img alt="" src="">
-</picture> 
-
-___________________________________________________________________________________________________________________
-
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
-![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Beta%20%20%20Beta-0.9.2025-orange?style=for-the-badge)
-
-##### **Universal Index for AI Chatbot --> https://kuzai.org**
-
-> [!WARNING]
-> ##### **NOW IN PROGRESS...**
->  
-> **CREATION --> DONE** \
-> **SITE INSTALLATION --> DONE** \
-> **DNS --> DONE** \
-> **AI LISTING CREATION --> IN PROGRESS** \
-> **WEB ART WORK --> IN PROGRESS** \
-> **SEARCH ENGINE CONF --> DONE**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.png">
  <img alt="" src="">
 </picture> 
 
