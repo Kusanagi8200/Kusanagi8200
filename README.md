@@ -1,8 +1,8 @@
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
-## **THE FUTUR WAS YESTERDAY, TODAY IT'S TOO LATE**
-___________________________________________________________________________________________________________________
+## **THE FUTUR WAS YESTERDAY - TODAY IT'S TOO LATE**
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB1.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB1.jpg">
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 #### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LLM __// WEB DESIGN**
 
-##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
+#### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 
 ___________________________________________________________________________________________________________________
 
