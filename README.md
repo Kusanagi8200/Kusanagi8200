@@ -8,7 +8,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
-## **MACHINE - CODE - CULTURE - REALITY**
+## **MACHINE - AI AUGMENTED DEV - CULTURE - REALITY**
 
 #### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BDD __// BASH-APP-DEV __// LLM __// WEB DESIGN**
 
