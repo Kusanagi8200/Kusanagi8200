@@ -42,7 +42,7 @@ ________________________________________________________________________________
 > ##### **SEARCH ENGINE DEV**
 > ##### **WORKING ON SEO CONFIGURATION**
 > ##### **WORKING ON MOBILE VERSION**
-> ##### **WORKING PAPER**
+> ##### **WORKING ON WHITE PAPER**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.jpg">
