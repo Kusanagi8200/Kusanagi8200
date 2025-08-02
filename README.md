@@ -38,9 +38,10 @@ ________________________________________________________________________________
 > ##### **INDEX UPDATED**
 > ##### **FIND AI AND AGENT IN 1200 UNIT LIST AND 93 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
+> ##### **SEARCH ENGINE DEV**
 > ##### **WORKING ON SEO CONFIGURATION**
 > ##### **WORKING ON MOBILE VERSION**
-> ##### **WHITE PAPER DONE**
+> ##### **WORKING PAPER**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.jpg">
