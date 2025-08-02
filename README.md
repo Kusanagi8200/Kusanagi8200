@@ -1,6 +1,7 @@
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
+## **THE FUTUR WAS YESTERDAY, TODAY IT'S TOO LATE**
 ___________________________________________________________________________________________________________________
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB1.jpg">
@@ -10,7 +11,7 @@ ________________________________________________________________________________
 
 ## **MACHINE - AI AUGMENTED DEV - CULTURE - REALITY**
 
-#### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BDD __// BASH-APP-DEV __// LLM __// WEB DESIGN**
+#### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LLM __// WEB DESIGN**
 
 ##### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 
