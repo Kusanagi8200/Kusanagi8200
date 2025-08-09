@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 ##### **Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).** 
 
-##### **This setup allows running a powerful,autonomous conversational AI locally without relying on external cloud APIs.**
+##### **This setup allows running a powerful,autonomous conversational RAG-AI locally without relying on external cloud APIs.**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG1.png">
