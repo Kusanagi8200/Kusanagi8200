@@ -29,10 +29,11 @@ ________________________________________________________________________________
 > [!WARNING]
 > 
 > ##### **NEW POC AVAILABLE ---> The KuzRAG** --> **Code and Process here --> https://github.com/Kusanagi8200/KuzRAG**
-> **Kotaemon Deployment Tutorial with Ollama and KuzAI (All-in-One)**
-> **Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM)
-> that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI). This setup allows running a powerful,
-> autonomous conversational AI locally without relying on external cloud APIs.**
+**Kotaemon Deployment Tutorial with Ollama and KuzAI (All-in-One)** **Full Local Stack**
+
+##### **Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).** 
+
+##### **This setup allows running a powerful,autonomous conversational AI locally without relying on external cloud APIs.**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG.png">
