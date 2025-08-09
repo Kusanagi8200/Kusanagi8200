@@ -28,8 +28,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________ 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzRAG%20%20%20-orange?style=for-the-badge&logo=github)
-![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 
 > [!WARNING]
 > 
