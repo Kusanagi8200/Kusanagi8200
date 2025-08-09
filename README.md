@@ -34,6 +34,12 @@ ________________________________________________________________________________
 > that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI). This setup allows running a powerful,
 > autonomous conversational AI locally without relying on external cloud APIs.**
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG.png">
+ <img alt="" src="">
+</picture>
+
 _________________________________________________________________________________________________________________
 
 **FULL TIME DEV ON PINNED PROJECT 1 --> KUZAI.ORG**
