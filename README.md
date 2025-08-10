@@ -9,11 +9,8 @@
  <img alt="" src="">
 </picture>
 
-## **MACHINE - AI AUGMENTED DEV - CULTURE - REALITY**
-
 #### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LOCAL LLM __// WEB DESIGN**
 
-#### **TACTICAL SPIRIT --> STAY CONNECTED TO TECHNOLOGY AND GAIN SKILLS TO HAVE FUN WITH A COMPUTER**
 
 ___________________________________________________________________________________________________________________
 
