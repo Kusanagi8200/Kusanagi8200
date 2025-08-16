@@ -21,6 +21,28 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB3.jpg">
  <img alt="" src="">
 </picture>
+___________________________________________________________________________________________________________________
+
+![KuzChat](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
+![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
+
+##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+>
+> **CREATION --> DONE**
+> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
+> **GRAFIKAL WORK**
+> **OLLAMA CONNECTION WORKS WELL**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
+ <img alt="" src="">
+</picture> 
 
 _________________________________________________________________________________________________________________ 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
@@ -109,27 +131,6 @@ ________________________________________________________________________________
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzAI/blob/main/KuzAI.png"> 
- <img alt="" src="">
-</picture> 
-
-___________________________________________________________________________________________________________________
-
-![KuzChat](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
-![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-orange?style=for-the-badge&logo=github) 
-![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
-
-##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
-
-> [!WARNING]  
-> ##### **NOW IN PROGRESS...**
->
-> **CREATION --> DONE**
-> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT.jpg">
  <img alt="" src="">
 </picture> 
 
