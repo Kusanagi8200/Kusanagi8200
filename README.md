@@ -32,11 +32,11 @@ ________________________________________________________________________________
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
->
-> **CREATION --> DONE**
-> **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
-> **GRAFIKAL WORK**
-> **OLLAMA CONNECTION WORKS WELL**
+>  ##### **CREATION --> DONE**
+>  ##### **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
+>  ##### **GRAFIKAL WORK**
+>  ##### **OLLAMA CONNECTION WORKS WELL**
+> 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
