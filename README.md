@@ -82,6 +82,7 @@ ________________________________________________________________________________
 > ##### **SEARCH ENGINE DEV**
 > ##### **WORKING ON SEO CONFIGURATION**
 > ##### **WORKING ON MOBILE VERSION**
+> ##### **CLEANING AI LIST**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
