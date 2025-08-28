@@ -74,7 +74,7 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > 
-> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP -> https://kuzai.org  -  MOBILE -> https://mob.kuzai.org**
+> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
 > ##### **INDEX UPDATED**
 > ##### **FIND AI AND AGENT IN 1720 UNIT LIST AND 256 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
