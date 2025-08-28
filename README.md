@@ -1,7 +1,7 @@
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
-## **THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE**
+## **THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE** 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZLAB2.jpg">
@@ -10,7 +10,6 @@
 </picture>
 
 #### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LOCAL LLM __// WEB DESIGN**
-
 
 ___________________________________________________________________________________________________________________
 
@@ -21,100 +20,10 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/QR-KUZLAB3.jpg">
  <img alt="" src="">
 </picture>
-___________________________________________________________________________________________________________________
-
-![KuzChat](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
-![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-orange?style=for-the-badge&logo=github) 
-![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
-
-##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
-
-> [!WARNING]  
-> ##### **NOW IN PROGRESS...**
->  ##### **CREATION --> DONE**
->  ##### **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
->  ##### **GRAFIKAL WORK**
->  ##### **OLLAMA CONNECTION WORKS WELL**
-> 
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
- <img alt="" src="">
-</picture> 
-
-_________________________________________________________________________________________________________________ 
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART4-blue?style=for-the-badge)
-![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzRAG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
-
-> [!WARNING]
-> 
-> ##### **NEW POC AVAILABLE ---> The KuzRAG** --> **Code and Process here --> https://github.com/Kusanagi8200/KuzRAG**
-**Kotaemon Deployment Tutorial with Ollama and KuzAI (All-in-One)** **Full Local Stack**
-
-##### **Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).** 
-
-##### **This setup allows running a powerful,autonomous conversational RAG-AI locally without relying on external cloud APIs.**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG1.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG1.png">
- <img alt="" src="">
-</picture>
-
-_________________________________________________________________________________________________________________
-
-**FULL TIME DEV ON PINNED PROJECT 1 --> KUZAI.ORG**
-
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
-![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.13.25-orange?style=for-the-badge)
-
-> [!WARNING]
-> 
-> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP -> https://kuzai.org  -  MOBILE -> https://mob.kuzai.org**
-> ##### **INDEX UPDATED**
-> ##### **FIND AI AND AGENT IN 1720 UNIT LIST AND 256 CATEGORIES**
-> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
-> ##### **SEARCH ENGINE DEV**
-> ##### **WORKING ON SEO CONFIGURATION**
-> ##### **WORKING ON MOBILE VERSION**
-> ##### **CLEANING AI LIST**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
- <img alt="" src="">
-</picture> 
 
 ___________________________________________________________________________________________________________________
 
-![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
-![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZLAB.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Version-0.4.25-orange?style=for-the-badge)
-
-##### **Official KuzNetwork Site --> https://kuzlab.org**
-
-> [!WARNING]  
-> ##### **NOW IN PROGRESS...**
-> 
-> **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
-> **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
-> **CREATE QR-CODE LINKS --> DONE** \
-> **CONF MAIL SYSTEM --> DONE**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
- <img alt="" src="">
-</picture> 
-
-___________________________________________________________________________________________________________________
-
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzAI%20%20%20-orange?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
@@ -135,6 +44,96 @@ ________________________________________________________________________________
 </picture> 
 
 ___________________________________________________________________________________________________________________
+
+![KuzChat](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART2-blue?style=for-the-badge)
+![GitHub KuzChat](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzChat%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
+
+##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+>  ##### **CREATION --> DONE**
+>  ##### **GPU / CPU LIVE INFORMATION PANEL + CLICK MODELS LAUNCHER**
+>  ##### **GRAFIKAL WORK**
+>  ##### **OLLAMA CONNECTION WORKS WELL**
+> 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZCHAT1.jpg">
+ <img alt="" src="">
+</picture> 
+
+_________________________________________________________________________________________________________________
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.13.25-orange?style=for-the-badge)
+
+> [!WARNING]
+> 
+> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP -> https://kuzai.org  -  MOBILE -> https://mob.kuzai.org**
+> ##### **INDEX UPDATED**
+> ##### **FIND AI AND AGENT IN 1720 UNIT LIST AND 256 CATEGORIES**
+> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
+> ##### **SEARCH ENGINE DEV**
+> ##### **WORKING ON SEO CONFIGURATION**
+> ##### **WORKING ON MOBILE VERSION**
+> ##### **CLEANING AI LIST**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
+ <img alt="" src="">
+</picture> 
+
+_________________________________________________________________________________________________________________
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART4-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzRAG%20%20%20-orange?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+
+> [!WARNING]
+> 
+> ##### **NEW POC AVAILABLE ---> The KuzRAG** --> **Code and Process here --> https://github.com/Kusanagi8200/KuzRAG**
+**Kotaemon Deployment Tutorial with Ollama and KuzAI (All-in-One)** **Full Local Stack**
+
+##### **Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).** 
+
+##### **This setup allows running a powerful,autonomous conversational RAG-AI locally without relying on external cloud APIs.**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzRAG/blob/main/KuzRAG1.png">
+ <img alt="" src="">
+</picture>
+
+___________________________________________________________________________________________________________________
+
+![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
+![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZLAB.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/Version-0.4.25-orange?style=for-the-badge)
+
+##### **Official KuzNetwork Site --> https://kuzlab.org**
+
+> [!WARNING]  
+> ##### **NOW IN PROGRESS...**
+> 
+> **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
+> **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
+> **CREATE QR-CODE LINKS --> DONE** \
+> **CONF MAIL SYSTEM --> DONE**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
+ <img alt="" src="">
+</picture> 
+
+_________________________________________________________________________________________________________________ 
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20Part1-blue?style=for-the-badge)
 ![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp_Bash%20%20%20-orange?style=for-the-badge&logo=github) 
@@ -188,6 +187,5 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KuzApp/blob/main/kuzapp-images/KUZAPP-AUTO.jpg">
  <img alt="" src="">
 </picture> 
-
 
 ___________________________________________________________________________________________________________________
