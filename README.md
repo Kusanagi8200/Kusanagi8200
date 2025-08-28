@@ -177,7 +177,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20Part2-blue?style=for-the-badge)
-![GitHub KuzApp](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp%20%20%20-orange?style=for-the-badge&logo=github) 
+![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp_PHP%20%20%20-orange?style=for-the-badge&logo=github) 
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
