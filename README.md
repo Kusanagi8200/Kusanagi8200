@@ -77,16 +77,15 @@ ________________________________________________________________________________
 > 
 > ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
 > ##### **INDEX UPDATED**
-> ##### **FIND AI AND AGENT IN 1720 UNIT LIST AND 256 CATEGORIES**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
-> ##### **SEARCH ENGINE DEV**
+> ##### **SEARCH ENGINE DEV --> NEW OPEN-SOURCE SECTION**
 > ##### **WORKING ON SEO CONFIGURATION**
 > ##### **WORKING ON MOBILE VERSION**
 > ##### **CLEANING AI LIST**
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/kuzai.org/blob/main/KUZAI.ORG1.png">
  <img alt="" src="">
 </picture> 
 
