@@ -23,6 +23,28 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.13.25-orange?style=for-the-badge)
+
+> [!WARNING]
+> 
+> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
+> ##### **INDEX UPDATED**
+> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
+> ##### **SEARCH ENGINE DEV --> NEW OPEN-SOURCE SECTION**
+> ##### **WORKING ON SEO CONFIGURATION**
+> ##### **WORKING ON MOBILE VERSION**
+> ##### **CLEANING AI LIST**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG1.jpg">
+ <img alt="" src="">
+</picture> 
+
+
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART1-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzAI%20%20%20-orange?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
@@ -66,30 +88,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
-_________________________________________________________________________________________________________________
-
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
-![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.13.25-orange?style=for-the-badge)
-
-> [!WARNING]
-> 
-> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
-> ##### **INDEX UPDATED**
-> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
-> ##### **SEARCH ENGINE DEV --> NEW OPEN-SOURCE SECTION**
-> ##### **WORKING ON SEO CONFIGURATION**
-> ##### **WORKING ON MOBILE VERSION**
-> ##### **CLEANING AI LIST**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG1.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG1.jpg">
- <img alt="" src="">
-</picture> 
-
-_________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART4-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzRAG%20%20%20-orange?style=for-the-badge&logo=github)
@@ -153,7 +152,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
-_________________________________________________________________________________________________________________ 
+___________________________________________________________________________________________________________________ 
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20Part1-blue?style=for-the-badge)
 ![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KuzApp_Bash%20%20%20-orange?style=for-the-badge&logo=github) 
