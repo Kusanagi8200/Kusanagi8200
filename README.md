@@ -4,8 +4,8 @@
 ## **THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE** 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.JPG">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG.JPG">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG3.JPG">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG3.JPG">
  <img alt="" src="">
 </picture>
 
