@@ -131,28 +131,6 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
-___________________________________________________________________________________________________________________
-
-![KuzBlog](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20ART%20%20%20EXPLORATION%20%20%20-blue?style=for-the-badge)
-![GitHub KuzBlog](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZLAB.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Version-0.4.25-orange?style=for-the-badge)
-
-##### **Official KuzNetwork Site --> https://kuzlab.org**
-
-> [!WARNING]  
-> ##### **NOW IN PROGRESS...**
-> 
-> **CREATION --> BACKGROUND SOUND --> KuzBlog-Sound.mp3** **--> DONE** \
-> **CHANGE DOMAIN NAME --> KUZLAB.ORG** **--> DONE** \
-> **CREATE QR-CODE LINKS --> DONE** \
-> **CONF MAIL SYSTEM --> DONE**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/HOME.png">
- <img alt="" src="">
-</picture> 
-
 ___________________________________________________________________________________________________________________ 
 
 ![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20Part1-blue?style=for-the-badge)
