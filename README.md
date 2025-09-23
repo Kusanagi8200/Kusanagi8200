@@ -40,8 +40,8 @@ ________________________________________________________________________________
 > ##### **CLEANING AI LIST**
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG1.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG1.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG2.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG2.png">
  <img alt="" src="">
 </picture>
 
