@@ -31,6 +31,7 @@ ________________________________________________________________________________
 > [!WARNING]
 > 
 > ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
+> ##### **NEW GITHUB SEARCH ENGINE IN MODAL WINDOW**
 > ##### **INDEX UPDATED**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
 > ##### **SEARCH ENGINE DEV --> NEW OPEN-SOURCE SECTION**
