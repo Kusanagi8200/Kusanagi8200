@@ -29,6 +29,7 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.13.25-orange?style=for-the-badge)
 
 > [!WARNING]
+> ##### **LAST UPDATE 27/09/2025**
 > 
 > ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
 > ##### **NEW GITHUB SEARCH ENGINE IN MODAL WINDOW - BASED ON N8N WORKFLOW**
