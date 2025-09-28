@@ -1,7 +1,7 @@
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
-## **THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE** 
+## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG3.JPG">
@@ -9,7 +9,7 @@
  <img alt="" src="">
 </picture>
 
-#### **DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LOCAL LLM __// WEB DESIGN**
+#### **`DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LOCAL LLM __// WEB DESIGN`**
 
 ___________________________________________________________________________________________________________________
 
@@ -54,8 +54,8 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
 
 
-#### **DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS** 
-##### **Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI**
+#### **`DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS`** 
+##### **`Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI`**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -75,7 +75,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
 
-##### **Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
+##### **`Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat`**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -104,7 +104,7 @@ ________________________________________________________________________________
 > ##### **NEW POC AVAILABLE ---> The KuzRAG** --> **Code and Process here --> https://github.com/Kusanagi8200/KuzRAG**
 **Kotaemon Deployment Tutorial with Ollama and KuzAI (All-in-One)** **Full Local Stack**
 
-##### **Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).** 
+##### **`Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).`** 
 
 ##### **This setup allows running a powerful,autonomous conversational RAG-AI locally without relying on external cloud APIs.**
 
@@ -140,7 +140,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main**
+##### **`Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main`**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **Web Admin-Sys bash script launcher in PHP --> https://github.com/Kusanagi8200/KuzApp**
+##### **`Web Admin-Sys bash script launcher in PHP --> https://github.com/Kusanagi8200/KuzApp`**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -173,7 +173,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>  
 
-##### **Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto**
+##### **`Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto`**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
