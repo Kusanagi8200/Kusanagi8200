@@ -29,13 +29,21 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.01.25-orange?style=for-the-badge)
 
 > [!WARNING]
-> ##### **NEW PROJECT ON DEV** --> https://github.com/Kusanagi8200/FIRST.KUZLAB.ORG
+> ##### **`NEW PROJECT ON DEV -->`** **https://first.kuzlab.org**
+> 
+> ##### **Repo --> https://github.com/Kusanagi8200/FIRST.KUZLAB.ORG**
 > ##### **HISTORICAL FIRST WORLD WIDE WEB INTERNET SITE**
 > ##### **Line Mode Browser Simulator - Local Deployment**
 > ##### **This project makes it possible to clone and run the world’s first website locally, using the original CERN architecture together with the Line Mode Browser simulator.**
 > ##### **Anyone can reproduce the historical experience on their own server.**
 >
 > ##### **ON PROGRESS --> THE KUZ NETWORK REVISITING**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/FIRST.KUZLAB.ORG.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/FIRST.KUZLAB.ORG.png">
+ <img alt="" src="">
+</picture>
 
 ___________________________________________________________________________________________________________________
 
@@ -47,7 +55,7 @@ ________________________________________________________________________________
 > [!WARNING]
 > ##### **LAST UPDATE 27/09/2025**
 > 
-> ##### **Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE  -> https://kuzai.org**
+> ##### **`Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE -->`** **https://kuzai.org**
 > ##### **NEW GITHUB SEARCH ENGINE IN MODAL WINDOW - BASED ON N8N WORKFLOW**
 > ##### **INDEX UPDATED**
 > ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
@@ -117,7 +125,7 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > 
-> ##### **NEW POC AVAILABLE ---> The KuzRAG** --> **Code and Process here --> https://github.com/Kusanagi8200/KuzRAG**
+> ##### **`NEW POC AVAILABLE ---> The KuzRAG --> Code and Process here -->`** **https://github.com/Kusanagi8200/KuzRAG**
 **Kotaemon Deployment Tutorial with Ollama and KuzAI (All-in-One)** **Full Local Stack**
 
 ##### **`Kotaemon (github.com/Cinnamon/kotaemon) is a Gradio-based web interface that leverages a local Ollama language model (LLM) that you can configure with KuzAI toolkit (github.com/Kusanagi8200/KuzAI).`** 
@@ -140,7 +148,7 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > 
-> ##### **KUZAI.ORG - APK VERSION** --> **https://github.com/Kusanagi8200/kuzai.apk**
+> ##### **`KUZAI.ORG - APK VERSION -->`** **https://github.com/Kusanagi8200/kuzai.apk**
 > ##### **STARTING DEV**
 
 <picture>
