@@ -21,6 +21,20 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
+___________________________________________________________________________________________________________________  
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART1-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20FIRST.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.01.25-orange?style=for-the-badge)
+
+> [!WARNING]
+> ##### **NEW PROJECT ON DEV** --> https://github.com/Kusanagi8200/FIRST.KUZLAB.ORG
+> ##### **HISTORICAL FIRST WORLD WIDE WEB INTERNET SITE**
+> ##### **Line Mode Browser Simulator - Local Deployment**
+> ##### **This project makes it possible to clone and run the world’s first website locally, using the original CERN architecture together with the Line Mode Browser simulator.**
+> ##### **Anyone can reproduce the historical experience on their own server.**
+
 ___________________________________________________________________________________________________________________
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
