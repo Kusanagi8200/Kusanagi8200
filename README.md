@@ -34,6 +34,8 @@ ________________________________________________________________________________
 > ##### **Line Mode Browser Simulator - Local Deployment**
 > ##### **This project makes it possible to clone and run the world’s first website locally, using the original CERN architecture together with the Line Mode Browser simulator.**
 > ##### **Anyone can reproduce the historical experience on their own server.**
+>
+> ##### **ON PROGRESS --> THE KUZ NETWORK REVISITING**
 
 ___________________________________________________________________________________________________________________
 
