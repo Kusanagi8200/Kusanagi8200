@@ -31,7 +31,7 @@ ________________________________________________________________________________
 > [!WARNING]
 > ##### **`NEW PROJECT ON DEV -->`** **https://first.kuzlab.org**
 > 
-> ##### **Repo --> https://github.com/Kusanagi8200/FIRST.KUZLAB.ORG**
+> ##### **Repo --> https://github.com/Kusanagi8200/first.kuzlab.org**
 > ##### **HISTORICAL FIRST WORLD WIDE WEB INTERNET SITE**
 > ##### **Line Mode Browser Simulator - Local Deployment**
 > ##### **This project makes it possible to clone and run the world’s first website locally, using the original CERN architecture together with the Line Mode Browser simulator.**
