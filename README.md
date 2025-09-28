@@ -173,7 +173,7 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>  
 
-##### **`Bash Automatik Install/Uninstall script --> https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto`**
+##### **`Bash Automatik Install/Uninstall script -->` https://github.com/Kusanagi8200/KuzApp/tree/main/kuzapp-auto**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
