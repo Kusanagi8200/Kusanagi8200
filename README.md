@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 
 #### **`DIVE INTO THE DEPTHS OF AI - WHERE ALGORITHMS WHISPER GLITCHED TRUTHS`** 
-##### **`Bash App for managing models with Ollama Engine --> https://github.com/Kusanagi8200/KuzAI`**
+##### **`Bash App for managing models with Ollama Engine -->` https://github.com/Kusanagi8200/KuzAI**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -75,7 +75,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.3.25-orange?style=for-the-badge)
 
-##### **`Speaking with KuzAI generated Models --> https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat`**
+##### **`Speaking with KuzAI generated Models -->` https://github.com/Kusanagi8200/KuzAI/tree/main/KuzChat**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -140,7 +140,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **`Bash Admin-Sys script launcher --> https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main`**
+##### **`Bash Admin-Sys script launcher -->` https://github.com/Kusanagi8200/App-Update-Infos-Linux/tree/main**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.2.25-orange?style=for-the-badge)
 
-##### **`Web Admin-Sys bash script launcher in PHP --> https://github.com/Kusanagi8200/KuzApp`**
+##### **`Web Admin-Sys bash script launcher in PHP -->` https://github.com/Kusanagi8200/KuzApp**
 
 > [!WARNING]  
 > ##### **NOW IN PROGRESS...**
