@@ -53,7 +53,7 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.25.25-orange?style=for-the-badge)
 
 > [!WARNING]
-> ##### **LAST UPDATE 27/09/2025**
+> ##### **LAST UPDATE 05/10/2025** --> **AI NEWS LIVE FEED (N8N WORKFLOW IMPLEMENTATION)**
 > 
 > ##### **`Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE -->`** **https://kuzai.org**
 > ##### **NEW GITHUB SEARCH ENGINE IN MODAL WINDOW - BASED ON N8N WORKFLOW**
@@ -67,6 +67,12 @@ ________________________________________________________________________________
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI-GITHUB-SEARCH.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI-GITHUB-SEARCH.png">
+ <img alt="" src="">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZNEWS-LIST.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZNEWS-LIST.png">
  <img alt="" src="">
 </picture>
 
