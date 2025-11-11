@@ -21,7 +21,25 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture>
 
-___________________________________________________________________________________________________________________  
+___________________________________________________________________________________________________________________
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART2-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20WIKI.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.01.25-orange?style=for-the-badge)
+
+> [!WARNING]
+> ##### **`NEW PROJECT ON DEV -->`** **https://wiki.kuzlab.org/shelves**
+> ##### **THE KUZ NETWORK PROJECT DOCS**
+> ##### **THE TECHNICAL DOCUMENTATION HUB OF THE KUZ NETWORK**
+> ##### **IT CENTRALIZES GUIDES - INFRASTRUCTURE SPECS - DEVELOPMENT - TECHNICAL WALKTROUGH FOR ALL KUZ SYSTEMS IN DEV**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZ-DOCS1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZ-DOCS1.png">
+ <img alt="" src="">
+</picture>
+
+___________________________________________________________________________________________________________________
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART1-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20FIRST.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
