@@ -25,7 +25,18 @@ ________________________________________________________________________________
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN3.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN3.png">
  <img alt="" src="">
-</picture>
+</picture> 
+
+___________________________________________________________________________________________________________________
+
+![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
+![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge) 
+
+> [!WARNING]
+> ##### **`NEW N8N WORKFLOW ON KUZAI.ORG -->`** **https://github.com/Kusanagi8200/kuzai.org/tree/main/kuzai-n8n**
+> ##### **`KUZAI-CYBER-SSH – Intrusion Detection Automation Workflow`**
 
 ___________________________________________________________________________________________________________________
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART2-blue?style=for-the-badge)
@@ -74,7 +85,7 @@ ________________________________________________________________________________
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.25.25-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.30.25-orange?style=for-the-badge)
 
 > [!WARNING]
 > ##### **LAST UPDATE 05/10/2025** --> **AI NEWS LIVE FEED (N8N WORKFLOW IMPLEMENTATION)**
