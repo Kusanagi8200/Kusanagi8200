@@ -35,9 +35,29 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge) 
 
 > [!WARNING]  **https://github.com/Kusanagi8200/kuzai.org/tree/main/kuzai-n8n**
-> ##### **`KUZAI-CYBER-SSH`** **Automated SSH monitoring --> fetches banned IPs, analyzes logs, generates and emails a security report.**
-> ##### **`KUZAI.ORG-LIVE-AI-NEWS`** **Automated AI news pipeline --> aggregates sources, generates JSON, deploys updates to KUZAI.ORG.**
-> ##### **`KUZAI.ORG-GITHUB-SEARCH`** **Secure GitHub search API --> receives Webhook requests, queries GitHub, formats and returns filtered JSON.**
+
+> ##### **`KUZAI-CYBER-SSH`** **Automated Intrusion Detection & Security Reporting
+
+Description:
+This workflow automatically analyzes failed SSH login attempts using Fail2ban data and the auth.log file.
+It extracts malicious IP addresses, consolidates security events, and generates a detailed incident report (timestamps, patterns, source IPs).
+The report is then emailed to the system administrator.
+It functions as an automated cybersecurity monitoring system, providing real-time visibility into SSH attacks and suspicious activity within the KUZLAB infrastructure.** 
+
+> ##### **`KUZAI.ORG-LIVE-AI-NEWS`** **Live AI News Aggregation & Automatic Website Update Pipeline
+
+Description:
+This workflow automatically runs a Python-based aggregator that collects AI-related news from multiple data sources.
+It generates a consolidated JSON feed and securely deploys it to the KUZAI.ORG web server via SSH.
+The website’s “Live AI News” section is updated continuously and autonomously, ensuring up-to-date technological monitoring without manual intervention.** 
+
+> ##### **`KUZAI.ORG-GITHUB-SEARCH`** **Secure GitHub Search API Backend for AI/Dev Tool Indexing
+
+Description:
+This workflow provides a secure API endpoint (Webhook with shared secret) used to perform GitHub searches.
+It receives a request, queries GitHub using a dedicated token, normalizes the response (repository name, description, topics, language), 
+and returns a clean JSON payload for frontend or indexing systems.
+It acts as a secure backend search service, supporting KUZAI.ORG features such as the Universal AI Index and technical discovery tools.**
 ___________________________________________________________________________________________________________________
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART2-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20WIKI.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
