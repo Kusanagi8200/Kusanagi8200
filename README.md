@@ -34,10 +34,10 @@ ________________________________________________________________________________
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge) 
 
-> [!WARNING]
-> ##### **`NEW N8N WORKFLOW ON KUZAI.ORG -->`** **https://github.com/Kusanagi8200/kuzai.org/tree/main/kuzai-n8n**
-> ##### **`KUZAI-CYBER-SSH – Intrusion Detection Automation Workflow`**
-
+> [!WARNING]  **https://github.com/Kusanagi8200/kuzai.org/tree/main/kuzai-n8n**
+> ##### **`KUZAI-CYBER-SSH`** **Automated SSH monitoring --> fetches banned IPs, analyzes logs, generates and emails a security report.**
+> ##### **`KUZAI.ORG-LIVE-AI-NEWS`** **Automated AI news pipeline --> aggregates sources, generates JSON, deploys updates to KUZAI.ORG.**
+> ##### **`KUZAI.ORG-GITHUB-SEARCH`** **Secure GitHub search API --> receives Webhook requests, queries GitHub, formats and returns filtered JSON.**
 ___________________________________________________________________________________________________________________
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART2-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20WIKI.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
