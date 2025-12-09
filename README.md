@@ -36,24 +36,24 @@ ________________________________________________________________________________
 
 > [!WARNING]  **https://github.com/Kusanagi8200/kuzai.org/tree/main/kuzai-n8n**
 
-> ##### **`KUZAI-CYBER-SSH`** **Automated Intrusion Detection & Security Reporting
+> ##### **`KUZAI-CYBER-SSH`**  -->**`Automated Intrusion Detection & Security Reporting`**
 
-Description:
+Description -->
 This workflow automatically analyzes failed SSH login attempts using Fail2ban data and the auth.log file.
 It extracts malicious IP addresses, consolidates security events, and generates a detailed incident report (timestamps, patterns, source IPs).
 The report is then emailed to the system administrator.
 It functions as an automated cybersecurity monitoring system, providing real-time visibility into SSH attacks and suspicious activity within the KUZLAB infrastructure.** 
 
-> ##### **`KUZAI.ORG-LIVE-AI-NEWS`** **Live AI News Aggregation & Automatic Website Update Pipeline
+> ##### **`KUZAI.ORG-LIVE-AI-NEWS`**  -->**`Live AI News Aggregation & Automatic Website Update Pipeline`**
 
-Description:
+Description -->
 This workflow automatically runs a Python-based aggregator that collects AI-related news from multiple data sources.
 It generates a consolidated JSON feed and securely deploys it to the KUZAI.ORG web server via SSH.
 The website’s “Live AI News” section is updated continuously and autonomously, ensuring up-to-date technological monitoring without manual intervention.** 
 
-> ##### **`KUZAI.ORG-GITHUB-SEARCH`** **Secure GitHub Search API Backend for AI/Dev Tool Indexing
+> ##### **`KUZAI.ORG-GITHUB-SEARCH`**  -->**`Secure GitHub Search API Backend for AI/Dev Tool Indexing`**
 
-Description:
+Description -->
 This workflow provides a secure API endpoint (Webhook with shared secret) used to perform GitHub searches.
 It receives a request, queries GitHub using a dedicated token, normalizes the response (repository name, description, topics, language), 
 and returns a clean JSON payload for frontend or indexing systems.
