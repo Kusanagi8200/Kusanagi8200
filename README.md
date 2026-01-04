@@ -4,8 +4,8 @@
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/TKN-MAIN-2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/TKN-MAIN-2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/TKN-MAIN-3.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/TKN-MAIN-3.png">
  <img alt="" src="">
 </picture>
 
