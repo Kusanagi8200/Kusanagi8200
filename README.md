@@ -59,7 +59,46 @@ It receives a request, queries GitHub using a dedicated token, normalizes the re
 and returns a clean JSON payload for frontend or indexing systems.
 It acts as a secure backend search service, supporting KUZAI.ORG features such as the Universal AI Index and technical discovery tools.**
 ___________________________________________________________________________________________________________________
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%202_//%20%20%20WEB%20%20%20DESIGN%20%20%20PART2-blue?style=for-the-badge)
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.30.25-orange?style=for-the-badge)
+
+> [!WARNING]
+> ##### **LAST UPDATE 11/01/2026** --> BUILDING A PROMPT ENGINE ON KUZAI.ORG
+> 
+> ##### **`Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE -->`** **https://kuzai.org**
+> ##### **NEW AI ASSISTANT - CLOUDFLARE AI POWERED WORKER**
+> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
+> ##### **SEARCH ENGINE DEV --> GITHUB SEARCH ENGINE + MEILI DOCS SEARCH ENGINE**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-MENU.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-MENU.png">
+ <img alt="" src="">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-GITHUB.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-GITHUB.png">
+ <img alt="" src="">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-AINEWS.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-AINEWS.png">
+ <img alt="" src="">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-ASSISTANT1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-ASSISTANT1.png">
+ <img alt="" src="">
+</picture>
+___________________________________________________________________________________________________________________
+
+![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
 ![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20WIKI.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.01.25-orange?style=for-the-badge)
@@ -97,45 +136,6 @@ ________________________________________________________________________________
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/FIRST.KUZLAB.ORG3.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/FIRST.KUZLAB.ORG3.png">
- <img alt="" src="">
-</picture>
-
-___________________________________________________________________________________________________________________
-
-![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
-![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github)
-![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.30.25-orange?style=for-the-badge)
-
-> [!WARNING]
-> ##### **LAST UPDATE 03/01/2026** -->
-> 
-> ##### **`Universal Index for AI Chatbot and Tools --> DESKTOP/MOBILE -->`** **https://kuzai.org**
-> ##### **NEW AI ASSISTANT - CLOUDFLARE AI POWERED WORKER**
-> ##### **WORKING ON GRAPHIK && LOOKING FOR NEW AI FOR THE INDEX**
-> ##### **SEARCH ENGINE DEV --> GITHUB SERACH ENGINE + MEILI DOCS SEARCH ENGINE**
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-MENU.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-MENU.png">
- <img alt="" src="">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-GITHUB.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-GITHUB.png">
- <img alt="" src="">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-AINEWS.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-AINEWS.png">
- <img alt="" src="">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-ASSISTANT1.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI.ORG-ASSISTANT1.png">
  <img alt="" src="">
 </picture>
 
