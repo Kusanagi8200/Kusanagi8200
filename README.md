@@ -4,7 +4,7 @@
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
 <p align="center">
-  <img src="./demo.gif" alt="Demo" width="900">
+  <img src="./demo.gif" alt="Demo" width="1050">
 </p>
 
 #### **`DEDICATED TO RESEARCH IN --> LINUX SYS-ADMIN __// BASH-PHP-APP-DEV __// LOCAL LLM __// WEB DESIGN`**
