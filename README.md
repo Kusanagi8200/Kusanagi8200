@@ -8,7 +8,9 @@
 </p>
 
 ### **`DEDICATED TO RESEARCH IN -->`** 
-### **`__//LINUX SYS-ADMIN __//BASH-PHP-APP-DEV __//LOCAL LLM __//WEB DESIGN __//GRAPHISM __//AI-DISCOVERY __//AND ALL THE FUN AND WEIRD THINGS WE CAN DO WITH A MACHINE __\\`**
+### **`__//LINUX SYS-ADMIN __//BASH-PHP-APP-DEV __//LOCAL LLM __//WEB DESIGN`**
+### **`__//GRAPHISM __//AI-DISCOVERY __//VIDEO/PHOTO`** 
+### **`__//AND ALL THE FUN AND WEIRD THINGS WE CAN DO WITH A MACHINE AND NETWORK`**
 
 ___________________________________________________________________________________________________________________
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20IS%20%20%20ONLINE%20%20-blue?style=for-the-badge)
