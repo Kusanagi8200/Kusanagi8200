@@ -98,6 +98,12 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI-PROMPT-FORGE.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZAI-PROMPT-FORGE.png">
+ <img alt="" src="">
+</picture>
+
 ___________________________________________________________________________________________________________________ 
 
 ![KuzAI](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART3-blue?style=for-the-badge)
