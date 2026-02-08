@@ -30,10 +30,28 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-![KuzApp](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
-![GitHub App-Update-Infos](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github) 
+![KuzAI.org](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
+![GitHub KuzAI.org](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/Docker-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.26-orange?style=for-the-badge) 
+
+> [!WARNING]
+> **https://radio.kuzai.org/public/kuzfm**
+> ##### **`KuzFM IZ ON THE AIR `**  -->**`fREE wEB rADIO `**
+> ##### **`AZURACAST DOCKER INSTALLATION`**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZFM-DESK.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZFM-DESK.png">
+ <img alt="" src="">
+</picture> 
+
+___________________________________________________________________________________________________________________
+
+![KuzAI.org](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
+![GitHub KuzAI.org](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github) 
 ![License](https://img.shields.io/badge/N8N-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.25-orange?style=for-the-badge) 
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.26-orange?style=for-the-badge) 
 
 > [!WARNING]  **https://github.com/Kusanagi8200/kuzai.org/tree/main/kuzai-n8n**
 
