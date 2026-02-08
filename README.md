@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN4.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN4.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN5.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN5.png">
  <img alt="" src="">
 </picture> 
 
