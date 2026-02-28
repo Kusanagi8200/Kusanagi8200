@@ -36,9 +36,14 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.26-orange?style=for-the-badge) 
 
 > [!WARNING]
-> **https://radio.kuzai.org/public/kuzfm**
 > ##### **`KuzFM IZ ON THE AIR `**  -->**`fREE wEB rADIO `**
+> **https://radio.kuzai.org/public/kuzfm**
+> 
+> **https://radio.kuzai.org/public/kuzfm/ondemand** **'Choose Tracks and Download'**
+ 
 > ##### **`AZURACAST DOCKER INSTALLATION`**
+> ##### **`INSTALLATION PROCESS -->`** **https://wiki.kuzlab.org/books/the-knw-kuzlab/page/kuzlab-kuzfm-webradio**
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZFM-DESK.png">
