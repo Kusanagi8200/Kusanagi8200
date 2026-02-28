@@ -16,13 +16,6 @@ ________________________________________________________________________________
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZLAB%20%20%20IS%20%20%20ONLINE%20%20-blue?style=for-the-badge)
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZQRCODE.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/KUZQRCODE.jpg">
- <img alt="" src="">
-</picture>
-
-___________________________________________________________________________________________________________________
-<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN5.jpeg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/INFRA-TKN5.jpeg">
  <img alt="" src="">
