@@ -21,6 +21,16 @@ ________________________________________________________________________________
  <img alt="" src="">
 </picture> 
 
+
+![KuzAI.org](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
+![GitHub KuzAI.org](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20METRIKS.KUZAI.ORG%20%20%20-orange?style=for-the-badge&logo=github) 
+![License](https://img.shields.io/badge/PHP-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.1.26-orange?style=for-the-badge) 
+
+> [!WARNING]
+> ##### **`THE KUZ-METRIKS --> WEB SITE METRICS TOOL IN DEV`**
+> **FULL aDmiN pROceSS -->** **https://github.com/Kusanagi8200/KUZ-METRIKS**
+
 ___________________________________________________________________________________________________________________
 
 ![KuzAI.org](https://img.shields.io/badge/%20%20%20LAB%20%20%203_//%20%20%20ADMIN_SYS%20%20%20TOOLS%20%20%20-blue?style=for-the-badge)
