@@ -29,7 +29,20 @@ ________________________________________________________________________________
 
 > [!WARNING]
 > ##### **`THE KUZ-METRIKS --> WEB SITE METRICS TOOL IN DEV`**
-> **FULL aDmiN pROceSS -->** **https://github.com/Kusanagi8200/KUZ-METRIKS**
+> **FuLl aDmiN pROceSS -->** **https://github.com/Kusanagi8200/KUZ-METRIKS**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KUZ-METRIKS/blob/main/01-KUZ-METRIKS%20-%20KUZAI.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KUZ-METRIKS/blob/main/01-KUZ-METRIKS%20-%20KUZAI.png">
+ <img alt="" src="">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KUZ-METRIKS/blob/main/02-KUZ-METRIKS%20-%20KUZAI.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KUZ-METRIKS/blob/main/02-KUZ-METRIKS%20-%20KUZAI.png">
+ <img alt="" src="">
+</picture>
+
 
 ___________________________________________________________________________________________________________________
 
