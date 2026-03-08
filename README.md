@@ -3,9 +3,11 @@
 
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
-<p align="center">
-  <img src="./demo.gif" alt="Demo" width="1050">
-</p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/TKN-LOGO.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/TKN-LOGO.png">
+ <img alt="" src="">
+</picture> 
 
 ### **`DEDICATED TO RESEARCH IN -->`** 
 ### **`__//LINUX SYS-ADMIN __//BASH-PHP-APP-DEV __//LOCAL LLM __//WEB DESIGN`**
