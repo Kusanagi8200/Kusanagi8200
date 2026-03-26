@@ -27,18 +27,17 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ![KUZ-LLM-DUO](https://img.shields.io/badge/%20%20%20LAB%20%20%201_//%20%20%20LLM%20%20%20EXPLORATION%20%20%20PART4-blue?style=for-the-badge)
-![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZ-LLM-DUO-PROJECT%20%20%20-orange?style=for-the-badge&logo=github)
+![GitHub KuzAI](https://img.shields.io/badge/%20%20%20GitHub%20%20%20-%20%20%20KUZ_LLM_DUO_PROJECT%20%20%20-orange?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/OpenSource-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.01.26-orange?style=for-the-badge)
 
 > [!WARNING]
-> ##### **`LAST UPDATE 26/03/2026`** --> 
+> ##### **`LAST UPDATE 26/03/2026`** --> **`KUZ LLM DUO PROJECT`**
 > 
 > ##### New experiment set up around the local execution of open-source language models.
-> ##### This project, called Local LLM Duo, will consist of running two distinct models on two different machines and then automating their exchanges through a central orchestrator. 
-> ##### 
-> ##### 
-> ##### 
+> ##### This project consist of running two distinct models on two different machines and then automating their exchanges through a central orchestrator. 
+> ##### **`DONE --> INFRASTRUCTURE`**
+> ##### **`DONE --> WEB-APP [CONTROL CONSOLE]`**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/KUZ-LLM-DUO-PROJECT/blob/main/LLM-DUO-POST.jpg">
