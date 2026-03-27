@@ -32,7 +32,7 @@ ________________________________________________________________________________
 ![Version](https://img.shields.io/badge/Beta%20%20%20Version-0.01.26-orange?style=for-the-badge)
 
 > [!WARNING]
-> ##### **`LAST UPDATE 26/03/2026`** --> **`KUZ LLM DUO PROJECT`**
+> ##### **`LAST UPDATE 26/03/2026`** --> **`KUZ LLM DUO PROJECT = https://github.com/Kusanagi8200/KUZ-LLM-DUO-PROJECT`**
 > 
 > ##### New experiment set up around the local execution of open-source language models.
 > ##### This project consist of running two distinct models on two different machines and then automating their exchanges through a central orchestrator. 
