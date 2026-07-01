@@ -36,6 +36,16 @@ ________________________________________________________________________________
 #### **`10/ GIT-RAG System for Local Codex Solution`**
 #### **`--> And More...`**
 
+https://github.com/Kusanagi8200/Kusanagi8200/blob/main/1782812943291.png
+------------------------------------------------------------------------
+#### **`THE KUZ NETWORK LAB`**
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/1782812943291.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/1782812943291.png">
+ <img alt="" src="">
+</picture> 
+
 ------------------------------------------------------------------------
 #### **`KUZAI - CORE CHAT-WEB`**
 
