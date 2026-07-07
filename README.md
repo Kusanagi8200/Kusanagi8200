@@ -20,6 +20,8 @@ ________________________________________________________________________________
 
 #### **`The Repo -->`** https://github.com/Kusanagi8200/KUZAI-CHAT
 
+#### **`The KUZAI WebSite and White-Paper -->`** https://kuzai.org
+
 #### **`The objective was simple`** -->  build a custom web interface able to communicate with a local LLM, analyze uploaded files, and use local web search, without depending on a cloud platform for inference.
 
 #### **`The installed stack is intentionally simple and controllable`** --> 
