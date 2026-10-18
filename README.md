@@ -47,19 +47,29 @@ KUZAI.ORG is the public presentation layer for the ecosystem. It provides the pr
 
 **Long-term direction:** bring the application, the model under development, and the public documentation together in one coherent, independently operated local AI project - without claiming that all components are already integrated.
 
-#### **`The installed stack is intentionally simple and controllable`** --> 
+#### **`THE KUZAI LOCAL AI STACK - MODULAR, SELF-HOSTED AND OPERATOR-CONTROLLED`**
 
-#### **`1/ Apache2 for web exposure.`**
-#### **`2/ PHP for the backend application. `**
-#### **`3/ JavaScript for the interactive interface.`** 
-#### **`4/ Custom CSS for the graphical interface. `**
-#### **`5/ llama.cpp to serve the local model. `**
-#### **`6/ Qwen3-8B Q5_K_M as the active LLM model. `**
-#### **`7/ SearXNG installed natively for local web search. `**
-#### **`8/ systemd for service management. `**
-#### **`9/ Voice Synthesis - PiperTTS`**
-#### **`10/ GIT-RAG System for Local Codex Solution`**
-#### **`--> And More...`**
+The KUZAI application is built around a deliberately transparent and replaceable technology stack. Each component can be managed, inspected and evolved independently, keeping the infrastructure, data flows and AI services under local control.
+
+#### **`1/ LINUX + SYSTEMD`** - Host infrastructure, service supervision, startup and runtime management.
+#### **`2/ APACHE2`** - Web server exposing the local application interface.
+#### **`3/ PHP`** - Backend logic, request processing and integration with local services.
+#### **`4/ JAVASCRIPT + CUSTOM CSS`** - Interactive browser interface and independently designed visual identity.
+#### **`5/ LLAMA.CPP`** - Local inference engine, with an OpenAI-compatible API and support for interchangeable compatible models.
+#### **`6/ QWEN3-8B Q5_K_M - CURRENT MODEL`** - The present reference language model, **not a fixed dependency**. KUZAI can switch to another compatible locally hosted model whenever operational needs, hardware or experiments require it.
+#### **`7/ SEARXNG`** - Self-hosted web search supplying optional source context to the local LLM.
+#### **`8/ PIPER TTS`** - Local neural voice synthesis for spoken assistant responses.
+#### **`9/ GIT-RAG`** - Local repository exploration, retrieval and controlled Git workflows.
+#### **`10/ LOCAL FILES + CUSTOM LLM PROFILES`** - File analysis, configurable assistant behavior and operator-managed data.
+
+#### **`NEXT STEP / MINI-KUZAI - THE MODEL DEVELOPMENT LAYER`**
+
+In parallel with this operational stack, **Mini-Kuzai** is being developed from scratch to explore and progressively master the language-model layer itself. Its longer-term objective is to become a possible additional model in the KUZAI environment, **subject to successful training, independent evaluation and runtime integration**. Mini-Kuzai is **not yet the active model**.
+
+**The direction is simple: keep the entire AI stack understandable, modular and locally controlled - from Linux and the web application to the model architecture and, eventually, its training.**
+
+#### **`--> AND MORE AS THE PROJECT EVOLVES...`**
+
 
 ------------------------------------------------------------------------
 #### **`THE KUZ NETWORK LAB`**
