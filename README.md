@@ -64,13 +64,6 @@ The KUZAI application is built around a deliberately transparent and replaceable
 
 #### **`NEXT STEP / MINI-KUZAI - THE MODEL DEVELOPMENT LAYER`**
 
-In parallel with this operational stack, **Mini-Kuzai** is being developed from scratch to explore and progressively master the language-model layer itself. Its longer-term objective is to become a possible additional model in the KUZAI environment, **subject to successful training, independent evaluation and runtime integration**. Mini-Kuzai is **not yet the active model**.
-
-**The direction is simple: keep the entire AI stack understandable, modular and locally controlled - from Linux and the web application to the model architecture and, eventually, its training.**
-
-#### **`--> AND MORE AS THE PROJECT EVOLVES...`**
-
-
 ------------------------------------------------------------------------
 #### **`THE KUZ NETWORK LAB`**
 
@@ -106,6 +99,22 @@ In parallel with this operational stack, **Mini-Kuzai** is being developed from 
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/KUZAI-CHAT/blob/main/01-KUZAI-SYNOPTIC-GIT-RAG.png">
  <img alt="" src="">
 </picture> 
+
+------------------------------------------------------------------------
+#### **`Mini-KUZAI PROJECT SYNOPTIC`**
+
+#### **`In parallel with this operational stack, Mini-Kuzai is being developed from scratch to explore and progressively master the language-model layer itself.`** 
+#### **`Its longer-term objective is to become a possible additional model in the KUZAI environment, subject to successful training, independent evaluation and runtime integration.`**
+
+#### **`The direction is simple --> keep the entire AI stack understandable, modular and locally controlled - from Linux and the web application to the model architecture and, eventually, its training.`**    
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MINI-KUZAI%20Project%20Synoptic%20Dashboard.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kusanagi8200/Kusanagi8200/blob/main/MINI-KUZAI%20Project%20Synoptic%20Dashboard.png">
+ <img alt="" src="">
+</picture> 
+
+#### **`--> AND MORE AS THE PROJECT EVOLVES...`**
 
 ------------------------------------------------------------------------
 
