@@ -1,6 +1,8 @@
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
+[![committers.top badge](https://user-badge.committers.top/france/Kusanagi8200.svg)](https://user-badge.committers.top/france/Kusanagi8200)
+
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
 ### **`DEDICATED TO RESEARCH IN -->`** 
