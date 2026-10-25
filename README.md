@@ -3,7 +3,7 @@
 
 <a href="https://user-badge.committers.top/france/Kusanagi8200"><img src="https://user-badge.committers.top/france/Kusanagi8200.svg" alt="committers.top badge" height="50"></a>
 
-[![GitHub France Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgayanvoice%2Ftop-github-users-ranking%2Fmain%2Fcache%2Ffrance.json&query=%24.users%5B%3F%28%40.login%3D%3D%22Kusanagi8200%22%29%5D.rank&prefix=%23&label=GITHUB+FRANCE+RANK&style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=000091&cacheSeconds=3600)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/france.md#kusanagi8200)
+[![GitHub Users France Rank](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgayanvoice%2Ftop-github-users-ranking%2Fmain%2Fsvg%2Ffrance%2Fkusanagi8200.svg&query=%2F%2A%5Blocal-name%28%29%3D%27svg%27%5D%2F%2A%5Blocal-name%28%29%3D%27title%27%5D&label=GITHUB+USERS&style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=000091&cacheSeconds=3600)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/france.md#kusanagi8200)
 
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
