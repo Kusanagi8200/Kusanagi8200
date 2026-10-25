@@ -5,6 +5,8 @@
 
 [![top-github-users rank](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgayanvoice%2Ftop-github-users-ranking%2Fmain%2Fsvg%2Ffrance%2Fkusanagi8200.svg&query=%2F%2A%5Blocal-name%28%29%3D%27svg%27%5D%2F%2A%5Blocal-name%28%29%3D%27title%27%5D&label=top-github-users%20rank&logo=github&logoColor=white&labelColor=555&color=blue&cacheSeconds=3600)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/france.md#kusanagi8200)
 
+[![gitranks followers rank france](https://gitranks.com/api/badge/v2/Kusanagi8200?ranking=f&context=country&type=position&meta=none&label=gitranks%20followers%20rank%20france&cornerStyle=rounded&labelBgColor=%23555555&valueBgColor=%23007ec6)](https://gitranks.com/profile/Kusanagi8200/country)
+
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
 ### **`DEDICATED TO RESEARCH IN -->`** 
