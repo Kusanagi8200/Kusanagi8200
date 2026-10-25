@@ -3,6 +3,8 @@
 
 <a href="https://user-badge.committers.top/france/Kusanagi8200"><img src="https://user-badge.committers.top/france/Kusanagi8200.svg" alt="committers.top badge" height="50"></a>
 
+[![GitHub France Rank](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/france/kusanagi8200.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/france.md#kusanagi8200)
+
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
 ### **`DEDICATED TO RESEARCH IN -->`** 
