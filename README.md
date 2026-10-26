@@ -1,5 +1,5 @@
 
-![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
+![THE KUZ NETWORK ZEITGEIST PRODUCTION](assets/badges/kuz-network-zeitgeist-production.svg)
 
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
