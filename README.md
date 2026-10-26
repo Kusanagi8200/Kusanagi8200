@@ -1,6 +1,7 @@
 
 ![THE KUZLAB PROD](https://img.shields.io/badge/THE%20%20%20KUZ%20%20%20ZEITGEIST%20%20%20PRODUCTION%20%20-blue?style=for-the-badge)
 
+<a href="https://gitranks.com/profile/Kusanagi8200/country"><img src="https://gitranks.com/api/badge/v2/Kusanagi8200?ranking=f&context=country&type=position&meta=percentile&label=Followers+Rank+France&cornerStyle=rounded&labelBgColor=%23796565&valueBgColor=%23ffffff" alt="GitRanks badge for Kusanagi8200" /></a>
 
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
