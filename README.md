@@ -29,24 +29,24 @@ The project brings together three complementary components -->
 
 The operational application connects a custom web interface to locally hosted language models and services. It combines local chat and inference, file analysis, SearXNG web search, Piper voice synthesis, configurable LLM profiles, and Git-RAG repository workflows. The aim is to keep infrastructure and processing under direct operator control while retaining a modular, auditable architecture.
 
-**Repository --> ** https://github.com/Kusanagi8200/KUZAI-CHAT  
-**Public application demo --> ** https://kuzai.org/demo/
+**` Repository --> `** https://github.com/Kusanagi8200/KUZAI-CHAT  
+**` Public application demo --> `** https://kuzai.org/demo/
 
 #### **`2/ MINI-KUZAI - LANGUAGE MODEL DEVELOPMENT`**
 
 Mini-Kuzai is a separate laboratory for building and understanding a small language model **from scratch**, including its Transformer mechanisms and the preparation of controlled training and evaluation data. Its work explores conversational identity, curiosity, reasoning, creativity, uncertainty, and continuity. **Model training and integration into the KUZAI application remain future milestones**, not deployed capabilities.
 
-**Repository --> ** https://github.com/Kusanagi8200/Mini-Kuzai  
-**Project presentation --> ** https://kuzai.org/index.php?page=mini-kuzai
+**` Repository --> `** https://github.com/Kusanagi8200/Mini-Kuzai  
+**` Project presentation --> `** https://kuzai.org/index.php?page=mini-kuzai
 
 #### **`3/ KUZAI.ORG - PUBLIC WEBSITE AND DOCUMENTATION`**
 
 KUZAI.ORG is the public presentation layer for the ecosystem. It provides the project overview, technical White Paper, application demo, and Mini-Kuzai development page. Its source code and documentation are maintained separately from the locally operated AI services.
 
-**Website and White Paper --> ** https://kuzai.org  
-**Website repository --> ** https://github.com/Kusanagi8200/KUZAI.ORG-VS2
+**` Website and White Paper --> `** https://kuzai.org  
+**` Website repository --> `** https://github.com/Kusanagi8200/KUZAI.ORG-VS2
 
-**Long-term direction --> ** bring the application, the model under development, and the public documentation together in one coherent, independently operated local AI project - without claiming that all components are already integrated.
+**` Long-term direction --> `** bring the application, the model under development, and the public documentation together in one coherent, independently operated local AI project - without claiming that all components are already integrated.
 
 #### **`THE KUZAI LOCAL AI STACK - MODULAR, SELF-HOSTED AND OPERATOR-CONTROLLED`**
 
