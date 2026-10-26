@@ -1,7 +1,7 @@
 
 [![GITHUB - THE KUZ NETWORK ZEITGEIST PRODUCTION](https://img.shields.io/badge/GITHUB-THE%20KUZ%20NETWORK%20ZEITGEIST%20PRODUCTION-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=555555)](https://github.com/Kusanagi8200)
 
-[![SITE VITRINE - KUZAI.ORG](https://img.shields.io/badge/SITE%20VITRINE-KUZAI.ORG-2EA043?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/KUZAI.ORG-VS2)&#8202;[![APPLICATION WEB - KUZAI AI](https://img.shields.io/badge/APPLICATION%20WEB-KUZAI%20AI-2EA043?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/KUZAI-CHAT)&#8202;[![LLM - MINI-KUZAI](https://img.shields.io/badge/LLM-MINI--KUZAI-D73A49?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/Mini-Kuzai)
+[![SHOWCASE WEBSITE - KUZAI.ORG](https://img.shields.io/badge/SHOWCASE%20WEBSITE-KUZAI.ORG-FFFFFF?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/KUZAI.ORG-VS2)&#8202;[![WEB APPLICATION - KUZAI AI](https://img.shields.io/badge/WEB%20APPLICATION-KUZAI%20AI-FFFFFF?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/KUZAI-CHAT)&#8202;[![LLM - MINI-KUZAI](https://img.shields.io/badge/LLM-MINI--KUZAI-FFFFFF?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/Mini-Kuzai)
 
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
