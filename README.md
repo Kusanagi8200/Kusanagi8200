@@ -1,6 +1,4 @@
 
-[![committers.top badge](https://user-badge.committers.top/france/USERNAME.svg)](https://user-badge.committers.top/france/kusanagi8200)
-
 [![GITHUB - THE KUZ NETWORK ZEITGEIST PRODUCTION](https://img.shields.io/badge/GITHUB-THE%20KUZ%20NETWORK%20ZEITGEIST%20PRODUCTION-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=555555)](https://github.com/Kusanagi8200)
 
 [![SHOWCASE WEBSITE - KUZAI.ORG](https://img.shields.io/badge/SHOWCASE%20WEBSITE-KUZAI.ORG-FFFFFF?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/KUZAI.ORG-VS2)&nbsp;[![WEB APPLICATION - KUZAI](https://img.shields.io/badge/WEB%20APPLICATION-KUZAI%20-FFFFFF?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/KUZAI-CHAT)&nbsp;[![LLM - MINI-KUZAI](https://img.shields.io/badge/LLM-MINI--KUZAI-FFFFFF?style=flat-square&labelColor=555555)](https://github.com/Kusanagi8200/Mini-Kuzai)
