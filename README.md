@@ -1,5 +1,5 @@
 
-![THE KUZ NETWORK ZEITGEIST PRODUCTION](assets/badges/kuz-network-zeitgeist-production-50px.svg)
+![THE KUZ NETWORK ZEITGEIST PRODUCTION](assets/badges/kuz-network-zeitgeist-production-40px.svg)
 
 ## **`THE FUTUR WAS YESTERDAY - TODAY IT'S ALREADY TOO LATE`** 
 
