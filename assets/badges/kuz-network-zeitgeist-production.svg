@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="36" role="img" aria-label="THE KUZ NETWORK ZEITGEIST PRODUCTION">
-  <rect width="380" height="36" rx="8" fill="#ffffff"/>
-  <text x="190" y="24" text-anchor="middle" font-family="Verdana, DejaVu Sans, sans-serif" font-size="15" font-weight="700" letter-spacing="0.8" fill="#000000">THE KUZ NETWORK ZEITGEIST PRODUCTION</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="64" role="img" aria-label="THE KUZ NETWORK ZEITGEIST PRODUCTION">
+  <rect width="430" height="64" rx="10" fill="#ffffff"/>
+  <text x="8" y="50"
+        font-family="Verdana, DejaVu Sans, sans-serif"
+        font-size="50"
+        font-weight="700"
+        fill="#000000"
+        textLength="414"
+        lengthAdjust="spacingAndGlyphs">THE KUZ NETWORK ZEITGEIST PRODUCTION</text>
 </svg>
