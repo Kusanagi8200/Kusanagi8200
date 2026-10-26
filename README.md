@@ -1,3 +1,5 @@
+[![gayanvoice/top-github-users/france](https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/france/kusanagi8200.svg)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/france.md#kusanagi8200)
+
 
 [![GITHUB - THE KUZ NETWORK ZEITGEIST PRODUCTION](https://img.shields.io/badge/GITHUB-THE%20KUZ%20NETWORK%20ZEITGEIST%20PRODUCTION-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=555555)](https://github.com/Kusanagi8200)
 
