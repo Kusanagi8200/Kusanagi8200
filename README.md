@@ -4,6 +4,7 @@
     <img src="https://gitscore.live/api/badge/Kusanagi8200?style=card" alt="GitScore for Kusanagi8200" />
   </picture>
 </a>
+
 ---
 
 [![GITHUB - THE KUZ NETWORK ZEITGEIST PRODUCTION](https://img.shields.io/badge/GITHUB-THE%20KUZ%20NETWORK%20ZEITGEIST%20PRODUCTION-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=555555)](https://github.com/Kusanagi8200)
