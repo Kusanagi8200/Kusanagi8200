@@ -118,10 +118,6 @@ The KUZAI application is built around a deliberately transparent and replaceable
 
 #### **`--> AND MORE AS THE PROJECT EVOLVES...`**
 
-------------------------------------------------------------------------
-
-#### **`THE KUZ NETWORK - KUSANAGI8200 - @2026`**
-
 ---
 
 ##### **`THE KUZ NETWORK - KUSANAGI8200 - @2026`**
